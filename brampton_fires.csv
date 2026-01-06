@@ -1,0 +1,759 @@
+﻿FIRE,DATE_,ALARM,XCOORD,YCOORD,PROPERTY_CLASS_DESC,AREA_OF_ORIGIN_DESC,CAUSE_DESC,IGNITION_SOURCE_DESC,LEVEL_OF_ORIGIN_DESC,OBJECT_IGNITED_DESC,OBJECTID
+1200362-00,2012/01/03,23:50:43,-79.75378,43.740668,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)","Other unintentional cause, not classified",Water Heater,,"Books, Magazines, Newspapers",1
+1200717-00,2012/01/06,16:08:44,-79.815929,43.714122,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",2
+1201757-00,2012/01/15,13:45:03,-79.755168,43.657668,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Other,"Rubbish, Trash, Waste",3
+1201837-00,2012/01/16,03:34:29,-79.730041,43.677271,Detached Dwelling,Passenger Area,Suspected Arson,Undetermined,1st Floor,Undetermined,4
+1202727-00,2012/01/22,22:30:40,-79.74194,43.667205,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,"Unintentional, cause undetermined",Undetermined,18th Floor,Wearing Apparel on a Person,5
+1202875-00,2012/01/23,23:07:19,-79.745907,43.648667,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)","Unintentional, cause undetermined","Blow Torch, Bunsen Burner.",,Interior Wall/Ceiling,6
+1202932-00,2012/01/24,12:57:22,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,Circuit Wiring - Aluminum (inc conductors),3rd Floor,Interior Wall/Ceiling,7
+1202932-01,2012/01/24,12:57:22,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Attic Area,Exposure fire,"Exposure, source structure semi-detached or attached",3rd Floor,Exterior Cladding (excluding roof),8
+1202932-02,2012/01/24,12:57:22,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Attic Area,Electrical Failure,"Exposure, source structure semi-detached or attached",4th Floor,Interior Wall/Ceiling,9
+1202932-03,2012/01/24,12:57:22,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Attic Area,Electrical Failure,Circuit Wiring - Aluminum (inc conductors),3rd Floor,Interior Wall/Ceiling,10
+1203084-00,2012/01/26,02:30:38,-79.663117,43.774128,Detached Dwelling,"Lobby, Entranceway",Suspected Arson,Other Lighting Equipment,1st Floor,"Rug, Carpet",11
+1203469-00,2012/01/29,02:03:53,-79.706393,43.727519,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",4th Floor,"Cooking Oil, Grease",12
+1203834-00,2012/02/01,01:20:45,-79.774873,43.750403,Detached Dwelling,Garage,Suspected Arson,Undetermined,1st Floor,Other Building Component,13
+1204109-00,2012/02/03,14:27:48,-79.817855,43.694,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",2nd Floor,Electrical Wiring Insulation,14
+1204351-00,2012/02/05,14:34:54,-79.721111,43.654247,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Cabinetry,15
+1205159-00,2012/02/12,10:12:31,-79.778424,43.680968,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",3rd Floor,Other,16
+1205591-00,2012/02/15,19:13:09,-79.761954,43.711654,Detached/Semi/Attached with Accessory Apartment below grade,"Stairway, Escalator",Suspected Arson,Matches (open flame),1st Floor,"Rug, Carpet",17
+1205703-00,2012/02/16,18:54:01,-79.750808,43.712643,Semi-Detached Dwelling,Other Storage Area,Electrical Failure,"Extension Cord, Temporary Wiring",1st Floor,Other,18
+1205862-00,2012/02/18,07:36:48,-79.778245,43.752035,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Lobby, Entranceway",Undetermined,Undetermined,1st Floor,"Rubbish, Trash, Waste",19
+1206022-00,2012/02/19,15:33:18,-79.728796,43.712165,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",9th Floor,"Cooking Oil, Grease",20
+1206122-00,2012/02/20,13:08:46,-79.813452,43.68958,Semi-Detached Dwelling,Laundry Area,Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",Other,Electrical Wiring Insulation,21
+1206125-00,2012/02/20,13:53:00,-79.737681,43.710406,Semi-Detached Dwelling,Garage,Improperly Discarded,"Other, not classified",1st Floor,"Books, Magazines, Newspapers",22
+1206790-00,2012/02/25,19:29:48,-79.762777,43.699073,Semi-Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Used or placed too close to combustibles,Cutting/Welding Equipment,1st Floor,Interior Wall/Ceiling,23
+1206974-00,2012/02/27,10:15:11,-79.731324,43.754331,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",98th Floor,Cabinetry,24
+1207235-00,2012/02/29,11:24:39,-79.722116,43.804438,Detached Dwelling,Basement/cellar not partitioned,Undetermined,Undetermined,,"Mattress, Pillow",25
+1207901-00,2012/03/05,16:52:20,-79.80274,43.683862,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Engine Area,"Other unintentional cause, not classified",Undetermined,Not applicable (formerly Undetermined),Undetermined,26
+1208426-00,2012/03/09,18:17:20,-79.696417,43.778981,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",27
+1208440-00,2012/03/09,21:04:09,-79.753627,43.696388,Multi-Unit Dwelling - 2 to 6 Units,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Florescent Lamp - bulb or tube (includes ballast),3rd Floor,"Upholstered Sofa, Chair, etc.",28
+1208451-00,2012/03/09,22:59:21,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Undetermined,"Other, not classified",1st Floor,"Rubbish, Trash, Waste",29
+1208483-00,2012/03/10,06:54:27,-79.756129,43.650242,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)","Unintentional, cause undetermined","Other, not classified",1st Floor,"Paper, Cardboard",30
+1208577-00,2012/03/10,23:56:29,-79.728535,43.748443,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Electrical Failure,Central Heating/Cooling Unit,,Undetermined,31
+1208650-00,2012/03/11,17:16:22,-79.83423,43.692055,Detached Dwelling,"Court, Patio, Terrace",Design/Construction/Installation/Maintenance Deficiency,Open Fired Barbeque - Fixed or Portable,1st Floor,Exterior Cladding (excluding roof),32
+1209435-00,2012/03/17,18:12:30,-79.692554,43.72123,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Children Playing (Ages 11 and under),Matches (open flame),2nd Floor,Bedding,33
+1209532-00,2012/03/18,12:54:50,-79.818709,43.69853,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",34
+1209588-00,2012/03/19,00:49:26,-79.73933,43.739854,Semi-Detached Dwelling,Laundry Area,Undetermined,Other Appliances,Other,"Other Soft Goods, Wearing Apparel",35
+1210381-00,2012/03/24,21:51:39,-79.754514,43.738077,Detached Dwelling,Other Outside Area,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Mattress, Pillow",36
+1210758-00,2012/03/27,18:38:33,-79.798196,43.6265,Detached Garage,Garage,Undetermined,Undetermined,1st Floor,Undetermined,37
+1211174-00,2012/03/31,11:01:35,-79.66401,43.767074,Semi-Detached Dwelling,Garage,Used or placed too close to combustibles,Open Fired Barbeque - Fixed or Portable,1st Floor,Other,38
+1211464-00,2012/04/02,15:02:49,-79.712773,43.718759,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",5thFloor,"Agricultural Product - Grown (e.g. straw, seeds, etc.)",39
+1211482-00,2012/04/02,17:38:52,-79.790565,43.675284,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Living Area (e.g. living, T.V., recreation, etc)",Suspected Arson,Undetermined,Other,"Upholstered Sofa, Chair, etc.",40
+1212138-00,2012/04/07,20:52:06,-79.750534,43.707968,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,,Interior Wall/Ceiling,41
+1212321-00,2012/04/09,13:55:40,-79.737405,43.771589,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",42
+1212431-00,2012/04/10,10:36:10,-79.767559,43.711825,Detached Dwelling,Garage,Improper storage,"Stove, Range-top burner",1st Floor,"Other chemicals, materials not classified above",43
+1212626-00,2012/04/11,17:51:58,-79.668351,43.782134,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",44
+1213219-00,2012/04/16,13:59:30,-79.742405,43.71455,Detached Dwelling,Laundry Area,Unattended,Clothes Dryer,1st Floor,Cleaning Supplies,45
+1213243-00,2012/04/16,16:58:59,-79.741284,43.687274,Detached Dwelling,"Court, Patio, Terrace",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Rubbish, Trash, Waste",46
+1213503-00,2012/04/18,21:57:17,-79.776837,43.719671,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,47
+1213614-00,2012/04/19,18:38:15,-79.79218,43.724587,Semi-Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Wood, wood shavings",48
+1213714-00,2012/04/20,14:57:40,-79.836668,43.699791,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Other, not classified",1st Floor,Interior Wall/Ceiling,49
+1214166-00,2012/04/23,23:27:26,-79.77153,43.666095,Detached Dwelling,Other Means of Egress,Undetermined,Candle,,Interior Wall/Ceiling,50
+1214273-00,2012/04/24,18:32:33,-79.72745,43.657491,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Electrical Failure,Other Appliances,1st Floor,Cabinetry,51
+1214294-00,2012/04/24,21:25:41,-79.767001,43.682265,Detached Dwelling,"Hallway, Corridor",Improper handling of ignition source or ignited material,Cutting/Welding Equipment,1st Floor,Interior Wall/Ceiling,52
+1214367-00,2012/04/25,14:01:39,-79.740653,43.772986,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",53
+1215470-00,2012/05/04,01:50:07,-79.818127,43.696046,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Basement/cellar not partitioned,Electrical Failure,Water Heater,1st Floor,Electrical Wiring Insulation,54
+1215691-00,2012/05/05,20:50:16,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,"Stairway, Escalator",Suspected Arson,Undetermined,2nd Floor,Undetermined,55
+1216068-00,2012/05/09,01:15:17,-79.786136,43.67186,Detached Dwelling,"Hallway, Corridor",Electrical Failure,"Terminations - Copper  (inc receptacles, switches, lights)",1st Floor,Undetermined,56
+1216216-00,2012/05/10,07:02:15,-79.738923,43.711375,Detached Dwelling,Laundry Area,Electrical Failure,Central Heating/Cooling Unit,Other,Other,57
+1216218-00,2012/05/10,07:17:54,-79.732608,43.647472,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,58
+1216433-00,2012/05/11,18:24:49,-79.700823,43.721171,Detached Dwelling,"Trash, rubbish area (outside)",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Not applicable (formerly Undetermined),"Rubbish, Trash, Waste",59
+1216443-00,2012/05/11,20:15:41,-79.827461,43.689352,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Oven,1st Floor,"Cooking Oil, Grease",60
+1217008-00,2012/05/16,10:09:56,-79.759151,43.652188,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Undetermined,Undetermined,1st Floor,Plastic,61
+1217077-00,2012/05/16,21:31:26,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Other misuse of ignition source/material ignited,"Cord, Cable for Appliance, Electrical Articles",10th Floor,"Upholstered Sofa, Chair, etc.",62
+1217122-00,2012/05/17,10:04:27,-79.772002,43.709409,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Improper handling of ignition source or ignited material,Other Open Flame Tools/Smokers' Articles,2nd Floor,Interior Wall/Ceiling,63
+1217691-00,2012/05/21,07:24:46,-79.825275,43.702564,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,Other Building Component,64
+1217938-00,2012/05/22,23:27:43,-79.755803,43.744097,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",65
+1218126-00,2012/05/24,05:33:06,-79.761691,43.706561,Semi-Detached Dwelling,Garage,Improperly Discarded,"Chemical Reaction (e.g. spontaneous combustion, etc.)",Undetermined (formerly Not Applicable),"Oily rags (inc. paint rags, etc)",66
+1218842-00,2012/05/29,03:51:01,-79.775731,43.631934,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,67
+1218842-01,2012/05/29,03:51:01,-79.775731,43.631934,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,68
+1218842-02,2012/05/29,03:51:01,-79.775731,43.631934,Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,69
+1218842-03,2012/05/29,03:51:01,-79.775731,43.631934,Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,70
+1218842-04,2012/05/29,03:51:01,-79.775731,43.631934,Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,71
+1219149-00,2012/05/31,14:34:32,-79.658019,43.778811,Semi-Detached Dwelling,Porch or Balcony,"Unintentional, cause undetermined",Undetermined,1st Floor,Undetermined,72
+1219694-00,2012/06/04,17:32:47,-79.774681,43.713864,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,Undetermined,Undetermined,,Undetermined,73
+1220260-00,2012/06/09,00:45:16,-79.733273,43.764524,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Cabinetry,74
+1220346-00,2012/06/09,18:11:41,-79.695296,43.795905,Detached Dwelling,Garage,Improper handling of ignition source or ignited material,Wood burning stove,1st Floor,Interior Wall/Ceiling,75
+1221095-00,2012/06/14,22:45:54,-79.782902,43.67902,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Interior Wall/Ceiling,76
+1221471-00,2012/06/17,21:35:35,-79.800986,43.689149,Detached/Semi/Attached with Accessory Apartment below grade,Cooking Area or Kitchen,Electrical Failure,Undetermined,,Cabinetry,77
+1221574-00,2012/06/18,16:15:36,-79.763651,43.716583,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",78
+1222005-00,2012/06/21,17:00:25,-79.709446,43.796121,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)","Other unintentional cause, not classified",Lightning,1st Floor,Electrical Wiring Insulation,79
+1222014-00,2012/06/21,17:22:34,-79.764286,43.754698,Detached Dwelling,Exterior Wall,"Unintentional, cause undetermined",Undetermined,1st Floor,Interior Wall/Ceiling,80
+1222191-00,2012/06/22,18:27:02,-79.715236,43.761092,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,81
+1222276-00,2012/06/23,11:51:51,-79.765548,43.659356,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Other unintentional cause, not classified",Other Mechanical,2nd Floor,Interior Wall/Ceiling,82
+1222283-00,2012/06/23,12:55:53,-79.747865,43.691689,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",3rd Floor,Cabinetry,83
+1222757-00,2012/06/26,22:36:20,-79.668388,43.793142,Semi-Detached Dwelling,Other - unclassified,Improperly Discarded,"Chemical Reaction (e.g. spontaneous combustion, etc.)",1st Floor,"Oily rags (inc. paint rags, etc)",84
+1223054-00,2012/06/29,07:08:40,-79.779438,43.734966,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Mechanical Failure,Other Mechanical,,Other,85
+1223409-00,2012/07/01,14:29:52,-79.783925,43.722194,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,2nd Floor,"Other Soft Goods, Wearing Apparel",86
+1223493-00,2012/07/02,03:13:38,-79.79844,43.680918,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Court, Patio, Terrace",Improper handling of ignition source or ignited material,Open Fired Barbeque - Fixed or Portable,,Other Building Component,87
+1223523-00,2012/07/02,11:14:41,-79.744659,43.754811,Detached Dwelling,Other Outside Area,Children Playing (Ages 11 and under),Undetermined,1st Floor,"Wood, wood shavings",88
+1223607-01,2012/07/03,04:38:57,-79.751611,43.693722,Detached Dwelling,Passenger Area,Suspected Arson,Undetermined,Other,Vehicle,89
+1223607-02,2012/07/03,04:38:57,-79.751611,43.693722,Detached Dwelling,Passenger Area,Suspected Arson,Undetermined,1st Floor,Vehicle,90
+1223745-00,2012/07/04,01:53:33,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",12th Floor,"Mattress, Pillow",91
+1223812-00,2012/07/04,15:52:20,-79.824879,43.710587,Detached Dwelling,Other - unclassified,"Other unintentional cause, not classified",Open Fired Barbeque - Fixed or Portable,Other,Other,92
+1223978-00,2012/07/05,20:48:14,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Undetermined,Undetermined,18th Floor,Undetermined,93
+1224011-00,2012/07/06,03:44:55,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Suspected Vandalism,Undetermined,17th Floor,"Rubbish, Trash, Waste",94
+1224062-00,2012/07/06,13:44:07,-79.778708,43.721448,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Floor,95
+1224416-00,2012/07/09,01:20:14,-79.695291,43.795901,Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Undetermined,96
+1224969-00,2012/07/13,01:12:16,-79.702745,43.726687,Detached Dwelling,Garage,"Unintentional, cause undetermined",Undetermined,1st Floor,Multiple diverse objects ignited,97
+1225197-00,2012/07/14,16:08:22,-79.794224,43.689495,Detached Dwelling,Porch or Balcony,Used or placed too close to combustibles,"Open Fire (e.g. camp fire, rubbish fire, etc.)",1st Floor,"Bush, Grass, Tree, Leaves, etc.",98
+1225446-00,2012/07/16,13:23:06,-79.718529,43.728958,Detached Dwelling,Other Outside Area,Improperly Discarded,Open Fired Barbeque - Fixed or Portable,Not applicable (formerly Undetermined),"Wood, wood shavings",99
+1225534-00,2012/07/17,01:29:29,-79.763666,43.708908,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,1st Floor,Undetermined,100
+1225545-00,2012/07/17,04:33:24,-79.789877,43.690727,Detached Dwelling,Attached deck,Used for purpose not intended,Open Fired Barbeque - Fixed or Portable,1st Floor,"Wood, wood shavings",101
+1225679-00,2012/07/18,03:32:03,-79.771983,43.680544,Detached Dwelling,Roof,Undetermined,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,Exterior Roof Covering,102
+1225958-00,2012/07/20,08:58:59,-79.74911,43.78965,Detached Dwelling,Laundry Area,Undetermined,Undetermined,2nd Floor,Multiple diverse objects ignited,103
+1226035-00,2012/07/20,19:27:30,-79.784273,43.733622,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Multiple diverse objects ignited,104
+1226485-00,2012/07/24,09:27:12,-79.840615,43.696202,Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Other,105
+1226676-00,2012/07/25,23:05:01,-79.771983,43.680544,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Design/Construction/Installation/Maintenance Deficiency,Circuit Wiring - Copper (inc conductors),2nd Floor,Structural Member,106
+1226679-00,2012/07/25,23:19:31,-79.795056,43.697619,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Roof,Natural cause,Lightning,4th Floor,Interior Wall/Ceiling,107
+1226755-00,2012/07/26,14:06:48,-79.727224,43.76371,Detached Dwelling,Laundry Area,"Other unintentional cause, not classified",Clothes Dryer,1st Floor,"Mattress, Pillow",108
+1227277-00,2012/07/30,19:59:07,-79.746659,43.68641,Detached Dwelling,"Open Area (inc lawn, field, farmyard, park, playing field)",Unattended,Open Fired Barbeque - Fixed or Portable,Other,Multiple Objects or Materials,109
+1227398-00,2012/07/31,14:13:30,-79.768082,43.718981,Detached Dwelling,Attic Area,Natural cause,Lightning,Other,Structural Member,110
+1227415-00,2012/07/31,15:06:38,-79.70869,43.710779,Detached Dwelling,Exterior Wall,Undetermined,Undetermined,1st Floor,"Rubbish, Trash, Waste",111
+1228128-00,2012/08/06,03:43:00,-79.744893,43.730788,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improper handling of ignition source or ignited material,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Mattress, Pillow",112
+1228129-00,2012/08/06,04:07:45,-79.786783,43.710551,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Suspected Arson,Undetermined,,"Upholstered Sofa, Chair, etc.",113
+1228450-00,2012/08/08,19:06:19,-79.750534,43.707968,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,,"Cooking Oil, Grease",114
+1230012-00,2012/08/21,17:02:40,-79.759627,43.704186,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",115
+1230157-00,2012/08/22,18:00:54,-79.725751,43.665819,Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Undetermined,116
+1230558-00,2012/08/25,16:25:05,-79.788941,43.695381,Detached Dwelling,Other - unclassified,Undetermined,"Other, not classified",Not applicable (formerly Undetermined),Other,117
+1230700-00,2012/08/26,18:17:30,-79.774681,43.713864,Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Other,"Upholstered Sofa, Chair, etc.",118
+1230977-00,2012/08/28,18:52:47,-79.731061,43.760877,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",2nd Floor,"Mattress, Pillow",119
+1232083-00,2012/09/05,22:03:05,-79.742322,43.638791,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Undetermined,"Stove, Range-top burner",1st Floor,Undetermined,120
+1232170-00,2012/09/06,15:54:19,-79.759682,43.652595,Detached Dwelling,"Hallway, Corridor",Undetermined,Undetermined,1st Floor,Interior Wall/Ceiling,121
+1232329-00,2012/09/07,20:42:52,-79.759647,43.669194,Semi-Detached Dwelling,Laundry Area,Unattended,Service/Utility Lines (includes power/hydro transmission lines),1st Floor,Linen Other than Bedding,122
+1232583-00,2012/09/10,00:32:01,-79.781236,43.674264,Detached Dwelling,Laundry Area,Electrical Failure,Clothes Dryer,1st Floor,Interior Wall/Ceiling,123
+1233320-00,2012/09/15,19:18:32,-79.721479,43.733914,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",124
+1233563-00,2012/09/18,00:56:17,-79.733498,43.683741,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Undetermined,Undetermined,2nd Floor,"Rubbish, Trash, Waste",125
+1233576-00,2012/09/18,06:51:02,-79.826849,43.700296,Detached Dwelling,Basement/cellar not partitioned,"Other unintentional cause, not classified",Circuit Wiring - Copper (inc conductors),Other,Interior Wall/Ceiling,126
+1234759-00,2012/09/27,07:31:50,-79.679773,43.772904,Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",127
+1234804-00,2012/09/27,13:19:41,-79.825313,43.682701,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",128
+1234869-00,2012/09/27,22:27:19,-79.728739,43.773896,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Design/Construction/Installation/Maintenance Deficiency,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Interior Wall/Ceiling,129
+1235396-00,2012/10/01,16:28:43,-79.74583,43.647087,Detached Dwelling,Undetermined,Undetermined,Undetermined,Not applicable (formerly Undetermined),Undetermined,130
+1235612-00,2012/10/03,11:01:39,-79.739121,43.643762,Detached Dwelling,Cooking Area or Kitchen,Children Playing (Ages 11 and under),Oven,,Undetermined,131
+1236051-00,2012/10/06,18:33:08,-79.777053,43.686132,Semi-Detached Dwelling,Cooking Area or Kitchen,Used or placed too close to combustibles,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",132
+1236205-00,2012/10/07,20:23:12,-79.8038,43.723036,Detached Dwelling,Chimney/Flue Pipe,Design/Construction/Installation/Maintenance Deficiency,Fireplace - Masonry,1st Floor,"Wood, wood shavings",133
+1236317-00,2012/10/08,17:38:12,-79.773788,43.719567,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",2nd Floor,Cabinetry,134
+1236486-00,2012/10/09,20:44:30,-79.79844,43.680918,Semi-Detached Dwelling,"Hallway, Corridor",Improper handling of ignition source or ignited material,Candle,2nd Floor,"Fabric - Synthetic, Combination",135
+1236517-00,2012/10/10,05:33:43,-79.740298,43.650974,Detached Dwelling,Laundry Area,"Other unintentional cause, not classified",Clothes Dryer,Other,Undetermined,136
+1236754-00,2012/10/11,20:57:56,-79.720121,43.770091,Detached Dwelling,Attic Area,Undetermined,Undetermined,3rd Floor,Undetermined,137
+1236830-00,2012/10/12,13:20:09,-79.76774,43.717244,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Living Area (e.g. living, T.V., recreation, etc)",Used or placed too close to combustibles,Space Heater - Portable,1st Floor,"Other Soft Goods, Wearing Apparel",138
+1237656-00,2012/10/18,23:00:39,-79.647694,43.765729,Detached Dwelling,Undetermined,Undetermined,Undetermined,1st Floor,Undetermined,139
+1238279-00,2012/10/23,15:36:55,-79.714029,43.708144,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,"Other unintentional cause, not classified",Clothes Dryer,,Undetermined,140
+1238413-00,2012/10/24,15:54:34,-79.818928,43.702866,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Rubbish, Trash, Waste",141
+1238681-00,2012/10/26,16:59:13,-79.810145,43.713426,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",2nd Floor,Cabinetry,142
+1238725-00,2012/10/26,22:27:08,-79.740512,43.743185,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)","Other unintentional cause, not classified",Candle,,"Rug, Carpet",143
+1238853-00,2012/10/28,00:26:25,-79.74194,43.667205,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",14th Floor,"Rubbish, Trash, Waste",144
+1239657-00,2012/11/03,01:14:20,-79.755257,43.699959,Multi-Unit Dwelling - Over 12 Units,"Closet (e.g. clothes, broom, linen closet, etc.)","Other unintentional cause, not classified","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",4th Floor,Undetermined,145
+1239721-00,2012/11/03,15:28:30,-79.657527,43.778267,Semi-Detached Dwelling,Laundry Area,Undetermined,"Distribution Equipment (includes panel boards, fuses, circuits)",Not applicable (formerly Undetermined),Interior Wall/Ceiling,146
+1240230-00,2012/11/07,15:58:42,-79.673032,43.77821,Semi-Detached Dwelling,Engine Area,"Unintentional, cause undetermined",Undetermined,Not applicable (formerly Undetermined),Undetermined,147
+1240592-00,2012/11/10,05:36:08,-79.722635,43.708462,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Unintentional, cause undetermined",Candle,1st Floor,Multiple Objects or Materials,148
+1240814-00,2012/11/12,03:02:47,-79.756183,43.675324,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Electric Blanket, Heating Pad",2nd Floor,"Mattress, Pillow",149
+1241073-00,2012/11/13,22:57:58,-79.823935,43.694534,Semi-Detached Dwelling,Garage,Improperly Discarded,Fireworks,1st Floor,"Bush, Grass, Tree, Leaves, etc.",150
+1241306-00,2012/11/15,17:14:31,-79.757817,43.686517,Detached Dwelling,"Lobby, Entranceway",Design/Construction/Installation/Maintenance Deficiency,Wood burning stove,1st Floor,"Wood, wood shavings",151
+1242056-00,2012/11/21,20:20:40,-79.748239,43.728701,Detached Dwelling,"Court, Patio, Terrace",Undetermined,Multiple Ignition Source or Igniting Equip (suspected arson),1st Floor,Undetermined,152
+1242056-01,2012/11/21,20:20:40,-79.748239,43.728701,Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",2nd Floor,Exterior Cladding (excluding roof),153
+1242056-02,2012/11/21,20:20:40,-79.748239,43.728701,Detached Dwelling,"Court, Patio, Terrace",Undetermined,Multiple Ignition Source or Igniting Equip (suspected arson),1st Floor,Undetermined,154
+1242151-00,2012/11/22,16:45:33,-79.778835,43.697468,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Other misuse of ignition source/material ignited,Candle,2nd Floor,Cabinetry,155
+1242202-00,2012/11/23,06:50:42,-79.76854,43.661066,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,156
+1242221-00,2012/11/23,09:54:49,-79.763282,43.627489,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Electrical Wiring Insulation,157
+1242258-00,2012/11/23,16:47:08,-79.751689,43.65456,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,1st Floor,"Cooking Oil, Grease",158
+1242961-00,2012/11/29,11:40:31,-79.724728,43.742278,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Paper, Cardboard",159
+1242961-01,2012/11/29,11:40:31,-79.724728,43.742278,Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",1st Floor,Exterior Cladding (excluding roof),160
+1242961-02,2012/11/29,11:40:31,-79.724728,43.742278,Detached Dwelling,Other Vehicle Area,Exposure fire,"Exposure, source structure detached",Not applicable (formerly Undetermined),Vehicle,161
+1243268-00,2012/12/01,15:49:59,-79.717403,43.717893,"Apartment, Flat, Tenement with Business","Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Improperly Discarded,Undetermined,1st Floor,"Rubbish, Trash, Waste",162
+1243536-00,2012/12/03,15:19:17,-79.752378,43.662677,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Improper handling of ignition source or ignited material,Oven,2nd Floor,Multiple Objects or Materials,163
+1243558-00,2012/12/03,19:38:03,-79.796213,43.684171,Semi-Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Candle,1st Floor,"Curtain, Drapery",164
+1243684-00,2012/12/04,16:43:25,-79.760467,43.677324,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Undetermined,"Other, not classified",1st Floor,"Bush, Grass, Tree, Leaves, etc.",165
+1244185-00,2012/12/08,07:59:13,-79.729054,43.729541,Detached Dwelling,Basement/cellar not partitioned,Other misuse of ignition source/material ignited,Other Electrical Distribution Item,,Multiple Objects or Materials,166
+1244590-00,2012/12/11,11:35:22,-79.725738,43.656483,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",6th Floor,Electrical Wiring Insulation,167
+1244603-00,2012/12/11,13:17:23,-79.806498,43.676604,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,168
+1245096-00,2012/12/15,08:21:26,-79.803859,43.658533,Detached Dwelling,Undetermined,Undetermined,"Other, not classified",Not applicable (formerly Undetermined),Other,169
+1245700-00,2012/12/19,16:28:14,-79.742482,43.68889,Semi-Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Other,170
+1246965-00,2012/12/29,04:43:13,-79.763483,43.690753,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Electrical Wiring Insulation,171
+1300109-00,2013/01/01,16:57:24,-79.711454,43.72697,Semi-Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Fireplace - Masonry,Other,"Creosote (chimney, flue pipe)",172
+1300639-00,2013/01/05,11:35:12,-79.819314,43.699805,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",173
+1301304-00,2013/01/10,11:42:50,-79.731459,43.682223,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Undetermined,Undetermined,1st Floor,"Rubbish, Trash, Waste",174
+1302045-00,2013/01/15,20:27:15,-79.770776,43.702134,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,175
+1302078-00,2013/01/16,06:09:27,-79.748987,43.791841,Detached/Semi/Attached with Accessory Apartment below grade,Cooking Area or Kitchen,Design/Construction/Installation/Maintenance Deficiency,"Terminations - Copper  (inc receptacles, switches, lights)",,Electrical Wiring Insulation,176
+1302329-00,2013/01/17,23:43:35,-79.728796,43.712165,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",9th Floor,"Cooking Oil, Grease",177
+1302431-00,2013/01/18,16:22:34,-79.756144,43.764505,Detached Dwelling,Porch or Balcony,Children Playing (Ages 11 and under),Matches or Lighters (unable to distinguish),2nd Floor,Other Building Component,178
+1302450-00,2013/01/18,19:24:54,-79.759627,43.704186,Semi-Detached Dwelling,Chimney/Flue Pipe,"Other unintentional cause, not classified",Flue Pipe,,"Creosote (chimney, flue pipe)",179
+1302631-00,2013/01/20,10:50:53,-79.703037,43.714345,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Other unintentional cause, not classified",Other Electrical Distribution Item,3rd Floor,"Mattress, Pillow",180
+1302836-00,2013/01/22,01:58:28,-79.784722,43.733207,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Candle,,"Upholstered Sofa, Chair, etc.",181
+1303504-00,2013/01/26,03:58:12,-79.793336,43.726374,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,182
+1303780-00,2013/01/27,20:20:28,-79.74512,43.797915,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Insulation,183
+1303865-00,2013/01/28,11:49:47,-79.760976,43.766348,Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",1st Floor,Cabinetry,184
+1304154-00,2013/01/30,12:30:42,-79.750247,43.736498,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,185
+1304458-00,2013/02/01,12:14:49,-79.754574,43.648317,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,186
+1305543-00,2013/02/09,14:04:31,-79.73027,43.719195,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Space Heater - Fixed,2nd Floor,"Mattress, Pillow",187
+1306179-00,2013/02/14,14:40:16,-79.815825,43.738677,Detached Dwelling,Garage,Unattended,Vehicle - Mechanical,1st Floor,Vehicle,188
+1306550-00,2013/02/17,12:16:36,-79.757859,43.668167,Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Fireplace - Masonry,,"Creosote (chimney, flue pipe)",189
+1306779-00,2013/02/19,08:55:58,-79.793284,43.694943,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,190
+1306935-00,2013/02/20,15:17:47,-79.749298,43.780743,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",191
+1307259-00,2013/02/23,03:29:50,-79.758472,43.631873,Detached Dwelling,Multiple Areas of origin,Suspected Arson,Undetermined,,Undetermined,192
+1308674-01,2013/03/06,19:28:32,-79.718104,43.660094,Detached Dwelling,Engine Area,Electrical Failure,"Extension Cord, Temporary Wiring",1st Floor,Vehicle,193
+1308848-00,2013/03/08,13:43:57,-79.727136,43.711933,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",16th Floor,Interior Wall/Ceiling,194
+1308925-00,2013/03/09,08:27:00,-79.701451,43.721872,Detached Dwelling,Laundry Area,Undetermined,Undetermined,,Undetermined,195
+1309547-00,2013/03/14,17:09:56,-79.726797,43.6631,Detached Dwelling,Cooking Area or Kitchen,Undetermined,"Stove, Range-top burner",,Structural Member,196
+1309640-00,2013/03/15,13:43:05,-79.752902,43.74731,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Children Playing (Ages 11 and under),Matches (open flame),,"Rug, Carpet",197
+1309899-00,2013/03/17,22:30:57,-79.727564,43.76544,Semi-Detached Dwelling,Multiple Areas of origin,Undetermined,Undetermined,1st Floor,Multiple diverse objects ignited,198
+1310051-00,2013/03/18,22:01:39,-79.743692,43.70341,Semi-Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Fireplace - Masonry,,"Creosote (chimney, flue pipe)",199
+1310611-00,2013/03/23,19:19:02,-79.7407,43.729435,Detached Dwelling,Chimney/Flue Pipe,Design/Construction/Installation/Maintenance Deficiency,Fireplace - Masonry,1st Floor,Interior Wall/Ceiling,200
+1311400-00,2013/03/30,20:27:35,-79.710273,43.725295,Semi-Detached Dwelling,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Undetermined,Undetermined,1st Floor,"Rubbish, Trash, Waste",201
+1311470-00,2013/03/31,11:52:31,-79.750095,43.712452,Semi-Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Wood, wood shavings",202
+1311681-00,2013/04/02,14:35:59,-79.825518,43.738359,Detached Dwelling,Garage,Other misuse of ignition source/material ignited,Undetermined,1st Floor,"Rubbish, Trash, Waste",203
+1311747-00,2013/04/03,08:09:38,-79.706393,43.727519,Multi-Unit Dwelling - Over 12 Units,"Utility Shaft (e.g. electrical wiring/phone, etc.)",Suspected Vandalism,Undetermined,4th Floor,"Rubbish, Trash, Waste",204
+1312176-00,2013/04/06,17:29:41,-79.706393,43.727519,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Improperly Discarded,Undetermined,,Undetermined,205
+1312484-00,2013/04/09,11:29:03,-79.739115,43.649652,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",206
+1313112-00,2013/04/14,10:26:17,-79.748828,43.650908,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,"Other, not classified",2nd Floor,Other,207
+1313203-00,2013/04/15,01:02:17,-79.727136,43.711933,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",15th Floor,"Upholstered Sofa, Chair, etc.",208
+1313501-00,2013/04/17,11:20:05,-79.804959,43.685692,Semi-Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Exterior Roof Covering,209
+1313679-00,2013/04/18,19:17:14,-79.667842,43.779447,Detached Dwelling,Basement/cellar not partitioned,Used or placed too close to combustibles,"Blow Torch, Bunsen Burner.",,Structural Member,210
+1313834-00,2013/04/19,20:10:29,-79.720906,43.711363,"Apartment, Flat, Tenement with Business","Living Area (e.g. living, T.V., recreation, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",11th Floor,"Upholstered Sofa, Chair, etc.",211
+1314050-00,2013/04/21,20:12:55,-79.715236,43.761092,Detached Dwelling,Cooking Area or Kitchen,Undetermined,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",212
+1314331-00,2013/04/24,01:19:45,-79.727688,43.676997,Detached Dwelling,"Court, Patio, Terrace",Suspected Vandalism,Undetermined,Other,Other Furniture,213
+1314860-00,2013/04/28,13:35:28,-79.738017,43.721351,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",214
+1315148-00,2013/04/30,21:10:20,-79.724048,43.70951,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",15th Floor,Multiple Objects or Materials,215
+1315945-00,2013/05/06,18:02:34,-79.839132,43.69811,Semi-Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Insulation,216
+1316085-00,2013/05/07,18:04:30,-79.740323,43.654027,Multi-Unit Dwelling - Over 12 Units,Other Means of Egress,Used or placed too close to combustibles,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",10th Floor,"Rug, Carpet",217
+1316270-00,2013/05/09,08:48:37,-79.729719,43.749632,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,218
+1316333-00,2013/05/09,17:40:10,-79.778835,43.697468,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",219
+1316650-01,2013/05/12,03:39:14,-79.748887,43.700356,Detached Dwelling,Roof,Exposure fire,"Exposure, source structure detached",Roof Level,Exterior Cladding (excluding roof),220
+1316650-02,2013/05/12,03:39:14,-79.748887,43.700356,Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",Not applicable (formerly Undetermined),Exterior Cladding (excluding roof),221
+1317098-00,2013/05/15,13:27:57,-79.723982,43.676607,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,222
+1317408-00,2013/05/17,20:07:00,-79.745061,43.719817,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Matches or Lighters (unable to distinguish),2nd Floor,"Paper, Cardboard",223
+1317518-00,2013/05/18,17:30:47,-79.694482,43.713331,Detached Dwelling,Storage Area (outside),Unattended,Open Fired Barbeque - Fixed or Portable,Not applicable (formerly Undetermined),"Wood, wood shavings",224
+1317757-00,2013/05/20,19:39:52,-79.718364,43.663346,Detached Dwelling,Cooking Area or Kitchen,Undetermined,"Stove, Range-top burner",,Cabinetry,225
+1318136-00,2013/05/23,18:21:38,-79.791253,43.67366,Detached Dwelling,Other Functional Area,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Not applicable (formerly Undetermined),"Bush, Grass, Tree, Leaves, etc.",226
+1318345-00,2013/05/25,08:31:48,-79.71062,43.712133,Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",1st Floor,Cabinetry,227
+1318413-00,2013/05/25,18:24:16,-79.721231,43.652042,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Blow Torch, Bunsen Burner.",1st Floor,Exterior Cladding (excluding roof),228
+1318499-00,2013/05/26,11:41:29,-79.705941,43.774415,Detached Dwelling,"Court, Patio, Terrace","Other unintentional cause, not classified","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Paper, Cardboard",229
+1319392-00,2013/06/01,18:04:26,-79.727531,43.743955,Semi-Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Improper handling of ignition source or ignited material,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",,Insulation,230
+1320001-00,2013/06/06,11:03:39,-79.785255,43.731543,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,Undetermined,231
+1320734-00,2013/06/12,11:45:33,-79.819988,43.710886,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Undetermined,232
+1320988-00,2013/06/14,12:42:49,-79.76822,43.7516,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Undetermined,233
+1321130-00,2013/06/15,12:17:31,-79.825856,43.692853,Detached Dwelling,Storage Area (outside),"Unintentional, cause undetermined",Undetermined,Not applicable (formerly Undetermined),Undetermined,234
+1321130-01,2013/06/15,12:17:31,-79.825856,43.692853,Detached Dwelling,Storage Area (outside),Exposure fire,"Exposure, source structure detached",Not applicable (formerly Undetermined),Multiple diverse objects ignited,235
+1321130-02,2013/06/15,12:17:31,-79.825856,43.692853,Detached Dwelling,Storage Area (outside),Exposure fire,"Exposure, source structure detached",Not applicable (formerly Undetermined),Multiple diverse objects ignited,236
+1321221-00,2013/06/16,02:30:05,-79.752902,43.74731,Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Undetermined,237
+1321221-01,2013/06/16,02:30:05,-79.752902,43.74731,Detached Dwelling,Roof,Exposure fire,"Exposure, source structure detached",Roof Level,Exterior Roof Covering,238
+1321221-02,2013/06/16,02:30:05,-79.752902,43.74731,Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",Roof Level,Exterior Cladding (excluding roof),239
+1321221-03,2013/06/16,02:30:05,-79.752902,43.74731,Detached Dwelling,Undetermined,Undetermined,Undetermined,Other,Undetermined,240
+1321221-04,2013/06/16,02:30:05,-79.752902,43.74731,Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Undetermined,241
+1321457-00,2013/06/18,00:39:19,-79.733547,43.659106,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",242
+1321527-00,2013/06/18,13:50:41,-79.772583,43.693751,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Other unintentional cause, not classified","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",,Cabinetry,243
+1321626-01,2013/06/19,12:24:23,-79.724323,43.746265,Detached Dwelling,Other - unclassified,"Other unintentional cause, not classified","Other, not classified",1st Floor,Undetermined,244
+1321782-00,2013/06/20,15:17:15,-79.770371,43.684751,Multi-Unit Dwelling - 2 to 6 Units,Roof,Undetermined,Undetermined,Other,Exterior Roof Covering,245
+1322078-00,2013/06/22,17:27:45,-79.788328,43.717843,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,1st Floor,Cabinetry,246
+1322503-00,2013/06/25,13:52:27,-79.755799,43.658303,Detached Dwelling,Engine Area,Mechanical Failure,Vehicle - Mechanical,Other,Undetermined,247
+1322524-00,2013/06/25,16:32:45,-79.792006,43.678798,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Other,Cabinetry,248
+1322525-00,2013/06/25,16:38:39,-79.741014,43.735745,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Other Outside Area,Unattended,Open Fired Barbeque - Fixed or Portable,Not applicable (formerly Undetermined),Other,249
+1322529-00,2013/06/25,17:08:59,-79.697823,43.725996,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",2nd Floor,"Cooking Oil, Grease",250
+1322946-00,2013/06/28,12:04:36,-79.754279,43.62573,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,251
+1323205-00,2013/06/30,13:27:36,-79.714029,43.708144,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Linen Other than Bedding,252
+1323648-00,2013/07/04,05:19:22,-79.822921,43.734476,Detached Dwelling,Multiple Areas of origin,Undetermined,Undetermined,1st Floor,Undetermined,253
+1324436-00,2013/07/08,20:33:58,-79.781856,43.67283,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,"Upholstered Sofa, Chair, etc.",254
+1324998-00,2013/07/11,15:47:14,-79.737821,43.722155,Detached Dwelling,Basement/cellar not partitioned,"Other unintentional cause, not classified","Blow Torch, Bunsen Burner.",,Interior Wall/Ceiling,255
+1325003-00,2013/07/11,16:19:41,-79.694246,43.720888,Semi-Detached Dwelling,Laundry Area,Undetermined,Clothes Dryer,,"Fabric - Natural (e.g. cotton, wool, etc.)",256
+1325758-00,2013/07/17,01:11:42,-79.788328,43.717843,Detached Dwelling,"Lobby, Entranceway",Unattended,Candle,1st Floor,"Fabric - Synthetic, Combination",257
+1325872-00,2013/07/17,19:15:55,-79.770648,43.684836,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",7th Floor,"Cooking Oil, Grease",258
+1325938-00,2013/07/18,07:51:12,-79.7397,43.770679,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",259
+1325953-00,2013/07/18,09:31:33,-79.723933,43.708269,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Mattress, Pillow",260
+1326456-00,2013/07/21,10:04:08,-79.819376,43.687841,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Multiple Ignition Source or Igniting Equip (suspected arson),2nd Floor,Undetermined,261
+1327387-00,2013/07/28,15:36:54,-79.758924,43.656095,Detached Dwelling,Laundry Area,Improper handling of ignition source or ignited material,Cutting/Welding Equipment,1st Floor,Interior Wall/Ceiling,262
+1327626-00,2013/07/30,13:24:06,-79.75176,43.795455,Detached Dwelling,"Closet (e.g. clothes, broom, linen closet, etc.)",Suspected Arson,Lighters (open flame),1st Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",263
+1327819-00,2013/08/01,02:07:44,-79.823945,43.707062,Detached Dwelling,Engine Area,Suspected Vandalism,"Other, not classified",Undetermined (formerly Not Applicable),Vehicle,264
+1327977-00,2013/08/02,11:06:22,-79.776179,43.674843,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",265
+1327981-00,2013/08/02,11:23:34,-79.734892,43.659702,Detached Dwelling,Garage,Improper handling of ignition source or ignited material,Painting Equipment,1st Floor,Plastic,266
+1328268-00,2013/08/04,22:39:30,-79.820321,43.687369,Detached Dwelling,Garage,Improperly Discarded,"Chemical Reaction (e.g. spontaneous combustion, etc.)",1st Floor,"Oily rags (inc. paint rags, etc)",267
+1328355-00,2013/08/05,19:09:55,-79.685765,43.789836,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,268
+1328754-00,2013/08/08,15:29:39,-79.680264,43.787068,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,269
+1329093-00,2013/08/11,09:37:20,-79.724048,43.70951,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",3rd Floor,"Cooking Oil, Grease",270
+1329168-00,2013/08/11,21:26:43,-79.814893,43.695541,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Used for purpose not intended,Other Lighting Equipment,,Interior Wall/Ceiling,271
+1329532-00,2013/08/14,18:57:49,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,4th Floor,Other,272
+1330052-00,2013/08/18,19:38:24,-79.732166,43.724002,Detached Dwelling,Garage,Electrical Failure,Other Electrical,1st Floor,Other,273
+1330066-00,2013/08/18,21:40:18,-79.754899,43.659863,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Rubbish, Trash, Waste",274
+1330422-00,2013/08/21,21:36:58,-79.736773,43.710071,Semi-Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Refrigerator, Freezer (inc vending machine)",Other,Undetermined,275
+1330507-00,2013/08/22,13:59:10,-79.733323,43.762731,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Children Playing (Ages 11 and under),Matches (open flame),,Plastic,276
+1330530-00,2013/08/22,16:43:24,-79.773289,43.680745,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Electrical Failure,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,277
+1330728-00,2013/08/24,08:24:28,-79.762281,43.763672,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,278
+1330971-00,2013/08/26,11:11:43,-79.720573,43.654875,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,Cabinetry,279
+1331169-00,2013/08/27,16:29:13,-79.740712,43.773989,Detached Dwelling,Garage,"Other unintentional cause, not classified","Incandescent Lamp - Light Bulb, Spotlight",1st Floor,"Bush, Grass, Tree, Leaves, etc.",280
+1331183-00,2013/08/27,18:03:32,-79.752656,43.641064,Semi-Detached Dwelling,"Dining or Beverage Area (inc. lunchroom, café, mess, etc)",Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",281
+1331677-00,2013/08/31,12:26:31,-79.718104,43.660094,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,Range Hood,1st Floor,Electrical Wiring Insulation,282
+1331854-00,2013/09/01,18:22:27,-79.733863,43.78601,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,2nd Floor,Interior Wall/Ceiling,283
+1332221-00,2013/09/05,02:21:51,-79.819545,43.684207,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Other,"Rubbish, Trash, Waste",284
+1332319-00,2013/09/05,17:35:35,-79.807508,43.681321,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",285
+1332739-00,2013/09/08,21:50:27,-79.773527,43.736052,Semi-Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,Oven,1st Floor,"Cooking Oil, Grease",286
+1333222-00,2013/09/11,22:42:19,-79.830228,43.676576,Detached Dwelling,Roof,Natural cause,Lightning,2nd Floor,Other Building Component,287
+1335799-00,2013/10/01,14:24:03,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",7th Floor,"Cooking Oil, Grease",288
+1336076-00,2013/10/03,13:15:25,-79.781953,43.707974,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",289
+1336329-00,2013/10/05,14:34:33,-79.731575,43.78466,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",290
+1336452-00,2013/10/06,15:15:36,-79.718364,43.663346,Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Wood burning stove,,"Creosote (chimney, flue pipe)",291
+1336511-00,2013/10/07,00:39:39,-79.71609,43.705912,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Plastic,292
+1336824-00,2013/10/09,12:10:16,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",9th Floor,"Cooking Oil, Grease",293
+1336996-00,2013/10/10,21:00:59,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",14th Floor,"Cooking Oil, Grease",294
+1337218-00,2013/10/12,16:22:47,-79.752244,43.729687,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",295
+1337306-00,2013/10/13,13:52:52,-79.851399,43.700477,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,"Upholstered Sofa, Chair, etc.",296
+1337852-00,2013/10/17,21:29:21,-79.78687,43.708636,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Undetermined,Other,"Upholstered Sofa, Chair, etc.",297
+1337946-00,2013/10/18,15:43:56,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",10th Floor,"Cooking Oil, Grease",298
+1339456-00,2013/10/29,22:23:28,-79.759665,43.65741,Detached Dwelling,Exterior Wall,Design/Construction/Installation/Maintenance Deficiency,Central Heating/Cooling Unit,,Structural Member,299
+1340050-00,2013/11/03,08:07:12,-79.729298,43.740241,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Living Area (e.g. living, T.V., recreation, etc)","Other unintentional cause, not classified",Fireplace - Factory Built,,"Creosote (chimney, flue pipe)",300
+1340085-00,2013/11/03,12:55:05,-79.746495,43.716577,Detached Dwelling,Garage,Undetermined,"Other, not classified",1st Floor,Multiple diverse objects ignited,301
+1340151-00,2013/11/03,22:03:08,-79.752509,43.721829,Detached Dwelling,Garage,Improperly Discarded,Fireworks,1st Floor,Multiple Objects or Materials,302
+1340855-00,2013/11/09,07:30:09,-79.744246,43.657928,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Electrical Systems,Electrical Failure,Circuit Wiring - Copper (inc conductors),3rd Floor,Electrical Wiring Insulation,303
+1340869-00,2013/11/09,10:12:19,-79.7884,43.691368,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,2nd Floor,"Mattress, Pillow",304
+1341020-00,2013/11/10,13:20:18,-79.72611,43.719376,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,24th Floor,"Upholstered Sofa, Chair, etc.",305
+1341214-00,2013/11/12,00:27:48,-79.738733,43.753487,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",306
+1341452-00,2013/11/13,17:14:23,-79.785761,43.676752,Detached Dwelling,"Closet (e.g. clothes, broom, linen closet, etc.)",Improper handling of ignition source or ignited material,"Blow Torch, Bunsen Burner.",2nd Floor,"Other Soft Goods, Wearing Apparel",307
+1341893-00,2013/11/17,05:00:13,-79.684394,43.796046,Detached Dwelling,Cooking Area or Kitchen,Unattended,Deep Fat Fryer,Not applicable (formerly Undetermined),"Cooking Oil, Grease",308
+1342133-00,2013/11/18,19:49:38,-79.819988,43.710886,Detached Dwelling,Basement/cellar not partitioned,Children Playing (Ages 11 and under),Water Heater,Other,"Upholstered Sofa, Chair, etc.",309
+1342160-00,2013/11/19,06:10:14,-79.786899,43.690821,Detached Dwelling,Multiple Areas of origin,Suspected Arson,Multiple Ignition Source or Igniting Equip (suspected arson),Not applicable (formerly Undetermined),Exterior Roof Covering,310
+1342165-00,2013/11/19,07:25:36,-79.77937,43.720951,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",311
+1342516-00,2013/11/21,18:28:37,-79.815929,43.714122,Detached Dwelling,"Dining or Beverage Area (inc. lunchroom, café, mess, etc)",Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",312
+1342905-00,2013/11/24,17:15:40,-79.750061,43.731558,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Electrical Failure,Oven,2nd Floor,Other,313
+1343317-00,2013/11/27,19:49:23,-79.723556,43.707624,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,314
+1343430-00,2013/11/28,14:10:17,-79.755136,43.660634,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Undetermined,315
+1343430-01,2013/11/28,14:10:17,-79.755136,43.660634,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Undetermined,316
+1343898-00,2013/12/02,02:46:58,-79.719721,43.658489,Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined",Range Hood,1st Floor,Cabinetry,317
+1344095-00,2013/12/03,15:27:18,-79.745445,43.757514,Semi-Detached Dwelling,Attic Area,Electrical Failure,Other Electrical,2nd Floor,Insulation,318
+1344125-00,2013/12/03,19:09:47,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",319
+1344385-00,2013/12/05,17:40:26,-79.77153,43.666095,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",Other,Other Furniture,320
+1344565-00,2013/12/07,07:21:05,-79.786136,43.67186,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Mechanical Failure,"Heat Treatment Equip. (furnace, oven, kiln, quench tanks, a",1st Floor,"Rubber, not classified above",321
+1344732-00,2013/12/08,18:22:59,-79.759118,43.751629,Detached Dwelling,Basement/cellar not partitioned,Unattended,"Stove, Range-top burner",Other,Interior Wall/Ceiling,322
+1345301-00,2013/12/12,23:28:43,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",7th Floor,"Rug, Carpet",323
+1346221-00,2013/12/18,18:03:23,-79.753744,43.738457,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,324
+1346698-00,2013/12/21,20:39:45,-79.753657,43.674361,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",2nd Floor,Multiple Objects or Materials,325
+1347122-00,2013/12/22,19:06:11,-79.747704,43.772621,Detached Dwelling,Garage,Used for purpose not intended,Lighters (open flame),1st Floor,Gasoline,326
+1348530-00,2013/12/31,17:36:32,-79.76636,43.698094,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,327
+1400124-00,2014/01/01,20:27:07,-79.755902,43.699369,Detached Dwelling,Exterior Wall,Other misuse of ignition source/material ignited,Other Appliances,1st Floor,"Mattress, Pillow",328
+1400388-00,2014/01/03,06:01:54,-79.726423,43.739246,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",329
+1401441-00,2014/01/07,19:55:02,-79.826654,43.704802,Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,2nd Floor,"Other Soft Goods, Wearing Apparel",330
+1402431-00,2014/01/13,15:26:51,-79.73654,43.645651,Detached Dwelling,Basement/cellar not partitioned,Improper handling of ignition source or ignited material,Lighters (open flame),1st Floor,"Paper, Cardboard",331
+1402464-00,2014/01/13,20:03:21,-79.799419,43.684806,Detached Dwelling,Garage,Improper handling of ignition source or ignited material,Static Electricity (spark),1st Floor,Gasoline,332
+1402464-01,2014/01/13,20:03:21,-79.799419,43.684806,Detached Dwelling,Garage,Improper handling of ignition source or ignited material,Static Electricity (spark),1st Floor,Gasoline,333
+1402752-00,2014/01/15,21:13:49,-79.823945,43.707062,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,Other,Bedding,334
+1403258-00,2014/01/19,17:57:23,-79.748143,43.745593,Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,1st Floor,Other,335
+1403708-00,2014/01/22,21:23:31,-79.71081,43.713552,Detached Dwelling,Exterior Wall,Improperly Discarded,"Hot Ashes, Embers, Spark",Not applicable (formerly Undetermined),Plastic,336
+1403959-00,2014/01/24,17:20:08,-79.76688,43.745969,Detached Dwelling,Cooking Area or Kitchen,Undetermined,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",337
+1404094-00,2014/01/25,13:17:40,-79.728741,43.730222,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",338
+1404275-00,2014/01/26,20:57:40,-79.665261,43.777333,Detached Dwelling,Garage,Exposure fire,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Vehicle,339
+1404275-02,2014/01/26,20:57:40,-79.665261,43.777333,Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",1st Floor,Exterior Cladding (excluding roof),340
+1405023-00,2014/01/31,09:23:15,-79.762009,43.675331,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",2nd Floor,"Cooking Oil, Grease",341
+1405599-00,2014/02/04,00:05:09,-79.759119,43.685315,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Candle,6th Floor,"Upholstered Sofa, Chair, etc.",342
+1405929-00,2014/02/06,00:52:03,-79.745249,43.79326,Detached Dwelling,"Parking Area, Parking Lot",Electrical Failure,Other Heating Equipment,1st Floor,Vehicle,343
+1405986-00,2014/02/06,10:27:08,-79.715227,43.774068,Detached Dwelling,"Closet (e.g. clothes, broom, linen closet, etc.)",Undetermined,Undetermined,2nd Floor,"Other Soft Goods, Wearing Apparel",344
+1406582-00,2014/02/10,14:47:21,-79.820843,43.697635,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Concealed Wall Area,Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Other,345
+1406604-00,2014/02/10,17:35:09,-79.707587,43.720365,Semi-Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",346
+1407043-00,2014/02/13,16:08:35,-79.748865,43.800528,Detached Dwelling,Electrical Systems,Electrical Failure,"Distribution Equipment (includes panel boards, fuses, circuits)",,Electrical Wiring Insulation,347
+1407164-00,2014/02/14,15:20:04,-79.737672,43.760458,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",348
+1408459-00,2014/02/23,18:51:33,-79.715707,43.723172,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",16th Floor,Cabinetry,349
+1408781-00,2014/02/26,09:05:49,-79.725064,43.76282,Semi-Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,Multiple diverse objects ignited,350
+1408848-00,2014/02/26,17:11:48,-79.729283,43.770509,Semi-Detached Dwelling,Laundry Area,Electrical Failure,"Distribution Equipment (includes panel boards, fuses, circuits)",,Interior Wall/Ceiling,351
+1409122-00,2014/02/28,12:28:10,-79.739219,43.743192,Detached Dwelling,"Dining or Beverage Area (inc. lunchroom, café, mess, etc)",Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Interior Wall/Ceiling,352
+1409194-00,2014/02/28,22:26:48,-79.662662,43.769444,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Basement/cellar not partitioned,Electrical Failure,Clothes Dryer,,Interior Wall/Ceiling,353
+1410147-00,2014/03/07,15:56:02,-79.804773,43.695657,Detached Dwelling,Passenger Area,Electrical Failure,Vehicle - Electrical,1st Floor,Multiple diverse objects ignited,354
+1410260-00,2014/03/08,10:59:03,-79.729537,43.651865,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,355
+1410753-00,2014/03/12,10:30:36,-79.807557,43.723198,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Insulation,356
+1410754-00,2014/03/12,10:30:59,-79.670231,43.778419,Detached Dwelling,Garage,Electrical Failure,Vehicle - Electrical,1st Floor,Vehicle,357
+1410947-00,2014/03/13,09:36:23,-79.724709,43.720909,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Improperly Discarded,Undetermined,1st Floor,"Rubbish, Trash, Waste",358
+1412405-00,2014/03/23,19:26:56,-79.768507,43.644902,Detached Dwelling,Chimney/Flue Pipe,Design/Construction/Installation/Maintenance Deficiency,Chimney - Masonry,1st Floor,"Creosote (chimney, flue pipe)",359
+1412532-00,2014/03/24,15:39:41,-79.742394,43.737674,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Interior Wall/Ceiling,360
+1412670-00,2014/03/25,16:20:21,-79.740209,43.663445,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,361
+1412998-00,2014/03/28,06:03:24,-79.720302,43.728443,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Undetermined,362
+1413009-00,2014/03/28,08:09:50,-79.818263,43.717269,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Non-upholstered Chair, etc.",363
+1413506-00,2014/04/01,02:33:33,-79.728516,43.660916,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Suspected Arson,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Mattress, Pillow",364
+1413714-00,2014/04/02,14:20:36,-79.75828,43.708897,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",1st Floor,"Cooking Oil, Grease",365
+1414691-00,2014/04/09,14:35:38,-79.729094,43.742254,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,366
+1414706-00,2014/04/09,16:13:50,-79.755291,43.725946,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Used for purpose not intended,"Stove, Range-top burner",3rd Floor,"Cooking Oil, Grease",367
+1415493-00,2014/04/14,18:00:43,-79.714029,43.708144,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Trash, rubbish area (outside)",Children Playing (Ages 11 and under),Matches (open flame),Not applicable (formerly Undetermined),Other,368
+1415851-00,2014/04/17,13:13:47,-79.741039,43.648654,Detached Dwelling,Exterior Wall,Other misuse of ignition source/material ignited,Cutting/Welding Equipment,1st Floor,Structural Member,369
+1416414-00,2014/04/21,18:33:59,-79.798201,43.732571,Detached Dwelling,Roof,Electrical Failure,Other Appliances,2nd Floor,Interior Wall/Ceiling,370
+1417194-00,2014/04/27,05:49:24,-79.693425,43.721705,Semi-Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Used for purpose not intended,"Extension Cord, Temporary Wiring",1st Floor,Interior Wall/Ceiling,371
+1417435-00,2014/04/28,18:37:13,-79.712773,43.718759,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Electrical Failure,Air Conditioner - Window or Room Unit,7th Floor,Multiple Objects or Materials,372
+1417862-00,2014/05/01,21:37:41,-79.741108,43.767945,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",373
+1417992-00,2014/05/02,18:59:39,-79.751377,43.645482,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",374
+1418024-00,2014/05/02,23:44:49,-79.741093,43.714199,Detached Dwelling,Garage,Electrical Failure,Other Electrical,1st Floor,Electrical Wiring Insulation,375
+1418177-00,2014/05/04,01:37:01,-79.737369,43.779641,Detached Dwelling,Basement/cellar not partitioned,Undetermined,Other Heating Equipment,,Interior Wall/Ceiling,376
+1418247-00,2014/05/04,14:48:48,-79.788888,43.719367,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",377
+1418500-00,2014/05/06,08:26:33,-79.773466,43.666638,Semi-Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified",Oven,1st Floor,Plastic,378
+1418581-00,2014/05/06,19:15:28,-79.829229,43.689971,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Suspected Arson,Undetermined,2nd Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",379
+1418699-00,2014/05/07,16:50:22,-79.766395,43.739873,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Electrical Failure,"Stove, Range-top burner",1st Floor,Other,380
+1419000-00,2014/05/09,17:17:18,-79.779052,43.745384,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Improper handling of ignition source or ignited material,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,Other,381
+1419271-00,2014/05/11,14:53:29,-79.763,43.68817,Detached Dwelling,Exterior Wall,"Other unintentional cause, not classified","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Exterior Cladding (excluding roof),382
+1420056-00,2014/05/16,19:32:42,-79.731922,43.736229,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",Other,Interior Wall/Ceiling,383
+1420463-00,2014/05/19,19:33:28,-79.791424,43.734208,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Suspected Arson,Undetermined,2nd Floor,Undetermined,384
+1420858-00,2014/05/22,12:33:16,-79.841104,43.698315,Detached Dwelling,Basement/cellar not partitioned,"Other unintentional cause, not classified","Distribution Equipment (includes panel boards, fuses, circuits)",Other,Multiple Objects or Materials,385
+1421302-00,2014/05/25,12:34:22,-79.78687,43.708636,Detached Dwelling,Porch or Balcony,Used for purpose not intended,"Incandescent Lamp - Light Bulb, Spotlight",1st Floor,Nest,386
+1421325-00,2014/05/25,15:22:48,-79.727822,43.657702,"Apartment, Flat, Tenement with Business","Hallway, Corridor",Suspected Arson,Multiple Ignition Source or Igniting Equip (suspected arson),3rd Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",387
+1421365-00,2014/05/25,19:19:49,-79.817954,43.71358,Semi-Detached Dwelling,Garage,Used or placed too close to combustibles,"Blow Torch, Bunsen Burner.",,Interior Wall/Ceiling,388
+1421464-00,2014/05/26,12:41:35,-79.834671,43.699366,Semi-Detached Dwelling,Other - unclassified,Unattended,Candle,2nd Floor,Cabinetry,389
+1421480-00,2014/05/26,14:53:24,-79.803527,43.692016,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Attic Area,Electrical Failure,Other Electrical Distribution Item,2nd Floor,Interior Wall/Ceiling,390
+1422047-00,2014/05/30,05:52:19,-79.829675,43.679883,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Upholstered Sofa, Chair, etc.",391
+1422088-00,2014/05/30,11:42:27,-79.799859,43.722056,Detached Dwelling,Other - unclassified,"Unintentional, cause undetermined",Undetermined,Not applicable (formerly Undetermined),Undetermined,392
+1422150-00,2014/05/30,19:02:55,-79.748828,43.650908,Detached Dwelling,Porch or Balcony,"Other unintentional cause, not classified",Open Fired Barbeque - Fixed or Portable,1st Floor,Multiple diverse objects ignited,393
+1422872-00,2014/06/04,11:24:58,-79.84065,43.701255,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,394
+1423118-00,2014/06/05,22:54:37,-79.743949,43.665192,Multi-Unit Dwelling - Over 12 Units,"Stairway, Escalator",Suspected Vandalism,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",,"Upholstered Sofa, Chair, etc.",395
+1423433-00,2014/06/07,21:45:52,-79.812981,43.711994,Semi-Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,"Other Soft Goods, Wearing Apparel",396
+1423475-00,2014/06/08,03:14:38,-79.745896,43.689201,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,397
+1423482-00,2014/06/08,05:59:33,-79.761359,43.689331,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Other Furniture,398
+1423973-00,2014/06/11,17:18:51,-79.807912,43.653571,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",399
+1424215-00,2014/06/13,08:55:39,-79.818081,43.725088,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",400
+1424380-00,2014/06/14,13:38:49,-79.724048,43.70951,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",10th Floor,Cabinetry,401
+1424550-00,2014/06/15,14:31:04,-79.736162,43.778662,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)","Stove, Range-top burner",,Cabinetry,402
+1424761-00,2014/06/16,20:24:35,-79.792233,43.639373,Detached Garage,Other Outside Area,Undetermined,Undetermined,1st Floor,"Wood, wood shavings",403
+1424763-00,2014/06/16,20:47:59,-79.678911,43.77788,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Plastic,404
+1424947-00,2014/06/17,21:14:18,-79.696417,43.778981,Detached Dwelling,Exterior Wall,Electrical Failure,"Terminations - Copper  (inc receptacles, switches, lights)",1st Floor,Interior Wall/Ceiling,405
+1425399-00,2014/06/20,19:52:02,-79.727644,43.746224,Semi-Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",1st Floor,Undetermined,406
+1426767-00,2014/06/29,14:48:30,-79.716127,43.660431,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",407
+1427102-00,2014/07/01,20:09:28,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Fuel Systems (e.g. fuel tank, etc.)","Unintentional, cause undetermined",Open Fired Barbeque - Fixed or Portable,1st Floor,Propane,408
+1427108-00,2014/07/01,21:01:24,-79.680704,43.789383,Detached Dwelling,Cooking Area or Kitchen,Unattended,Deep Fat Fryer,1st Floor,Cabinetry,409
+1427775-00,2014/07/06,12:51:47,-79.767072,43.650699,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,410
+1427789-00,2014/07/06,15:42:50,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,Other Outside Area,Undetermined,Undetermined,Other,"Fabric - Natural (e.g. cotton, wool, etc.)",411
+1428204-00,2014/07/09,12:16:33,-79.793157,43.6847,Semi-Detached Dwelling,Undetermined,Undetermined,Undetermined,Not applicable (formerly Undetermined),Undetermined,412
+1428660-00,2014/07/12,10:24:10,-79.748017,43.736012,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",2nd Floor,"Cooking Oil, Grease",413
+1428866-00,2014/07/13,19:20:04,-79.730775,43.669843,Detached Dwelling,Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Multiple Objects or Materials,414
+1429447-00,2014/07/17,17:45:32,-79.78625,43.726709,Semi-Detached Dwelling,Concealed Wall Area,Used or placed too close to combustibles,"Blow Torch, Bunsen Burner.",1st Floor,Insulation,415
+1429540-00,2014/07/18,11:48:42,-79.711361,43.735458,Detached Dwelling,Other - unclassified,Undetermined,Undetermined,1st Floor,Undetermined,416
+1429941-00,2014/07/21,07:15:04,-79.70604,43.775475,Detached Dwelling,Other Outside Area,Used or placed too close to combustibles,"Hot Ashes, Embers, Spark",1st Floor,Undetermined,417
+1431358-00,2014/07/30,22:59:18,-79.823311,43.719733,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Other,418
+1431481-00,2014/07/31,18:16:19,-79.712773,43.718759,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",20th Floor,Cabinetry,419
+1432149-00,2014/08/05,19:01:48,-79.831038,43.707735,Detached Dwelling,Other Outside Area,"Unintentional, cause undetermined",Open Fired Barbeque - Fixed or Portable,Not applicable (formerly Undetermined),Propane,420
+1432322-00,2014/08/06,22:16:01,-79.731922,43.736229,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",421
+1432462-00,2014/08/08,01:01:01,-79.748143,43.745593,Detached Dwelling,Exterior Wall,Suspected Arson,"Other, not classified",1st Floor,"Non-upholstered Chair, etc.",422
+1433453-00,2014/08/14,16:13:51,-79.786899,43.690821,Detached/Semi/Attached with Accessory Apartment below grade,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,423
+1433477-00,2014/08/14,19:34:24,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Undetermined,Undetermined,7th Floor,"Upholstered Sofa, Chair, etc.",424
+1433724-00,2014/08/16,13:40:39,-79.757195,43.775228,Detached Dwelling,Garage,Unattended,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",1st Floor,Structural Member,425
+1433948-00,2014/08/18,01:39:11,-79.784259,43.678951,Semi-Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Other,426
+1434096-00,2014/08/19,02:22:03,-79.803479,43.693134,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Undetermined,Undetermined,1st Floor,"Rubbish, Trash, Waste",427
+1434120-00,2014/08/19,08:27:28,-79.81179,43.671171,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Suspected Arson,Undetermined,1st Floor,Undetermined,428
+1435043-00,2014/08/25,15:35:01,-79.726912,43.781902,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Structural Member,429
+1435397-00,2014/08/28,03:18:11,-79.694669,43.707465,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,Oven,14th Floor,"Rubbish, Trash, Waste",430
+1435500-00,2014/08/28,20:22:21,-79.699302,43.724663,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",2nd Floor,"Cooking Oil, Grease",431
+1435753-00,2014/08/30,14:24:26,-79.762464,43.659576,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Porch or Balcony,Mechanical Failure,Outdoor fireplace/heater,Not applicable (formerly Undetermined),Propane,432
+1435922-00,2014/08/31,18:52:25,-79.74117,43.721683,Detached Dwelling,Other Outside Area,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Other,433
+1436650-00,2014/09/05,17:53:46,-79.729631,43.774333,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Other unintentional cause, not classified","Other, not classified",2nd Floor,Wearing Apparel on a Person,434
+1436701-00,2014/09/05,22:35:48,-79.797434,43.729742,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Hallway, Corridor",Improperly Discarded,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",1st Floor,Interior Wall/Ceiling,435
+1437357-00,2014/09/10,10:41:54,-79.75202,43.653093,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",Roof Level,Interior Wall/Ceiling,436
+1437580-00,2014/09/11,18:45:58,-79.751014,43.669255,Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined",Undetermined,1st Floor,Undetermined,437
+1437603-00,2014/09/11,20:21:51,-79.804959,43.685692,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,Undetermined,438
+1437635-00,2014/09/12,03:05:04,-79.753329,43.659001,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,"Books, Magazines, Newspapers",439
+1437701-00,2014/09/12,13:29:07,-79.792432,43.692199,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",440
+1438627-00,2014/09/18,17:11:47,-79.826064,43.686305,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",,Cabinetry,441
+1438743-00,2014/09/19,12:34:08,-79.786426,43.730444,Semi-Detached Dwelling,Cooking Area or Kitchen,Undetermined,Undetermined,1st Floor,Cabinetry,442
+1439403-00,2014/09/23,21:00:37,-79.788902,43.663814,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,Candle,,Bedding,443
+1440233-00,2014/09/29,11:38:54,-79.74513,43.650497,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",444
+1440355-00,2014/09/30,02:17:51,-79.784402,43.748185,Semi-Detached Dwelling,Basement/cellar not partitioned,Suspected Arson,"Other, not classified",Other,"Paper, Cardboard",445
+1442227-00,2014/10/12,04:39:47,-79.721252,43.73943,Semi-Detached Dwelling,"Hallway, Corridor",Undetermined,Undetermined,1st Floor,"Wood, wood shavings",446
+1442432-00,2014/10/13,18:21:04,-79.761954,43.711654,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Unattended,Candle,,Linen Other than Bedding,447
+1443341-00,2014/10/19,23:22:01,-79.689784,43.809346,Detached Dwelling,Cooking Area or Kitchen,Unattended,Space Heater - Portable,1st Floor,Multiple Objects or Materials,448
+1443647-00,2014/10/21,20:29:09,-79.734487,43.775332,Detached Dwelling,Concealed Ceiling Area,"Unintentional, cause undetermined",Other Lighting Equipment,2nd Floor,Undetermined,449
+1443963-00,2014/10/23,22:08:25,-79.677399,43.778881,Detached Dwelling,Garage,Improperly Discarded,Fireworks,1st Floor,Interior Wall/Ceiling,450
+1444098-00,2014/10/24,19:26:27,-79.774873,43.750403,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",Other,Other,451
+1444290-00,2014/10/26,00:47:28,-79.734755,43.645861,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Undetermined,452
+1445168-00,2014/10/31,17:02:22,-79.833207,43.69761,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",453
+1445329-00,2014/11/01,14:49:35,-79.784726,43.720452,Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,1st Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",454
+1445450-00,2014/11/02,09:54:11,-79.744012,43.757735,Detached Dwelling,Storage Area (outside),"Unintentional, cause undetermined",Circuit Wiring - Copper (inc conductors),1st Floor,Interior Wall/Ceiling,455
+1446450-00,2014/11/08,18:33:10,-79.791882,43.729782,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Paper, Cardboard",456
+1446585-00,2014/11/09,19:21:03,-79.724694,43.652009,Detached Dwelling,Garage,Improper storage,Undetermined,1st Floor,"Rubbish, Trash, Waste",457
+1446926-00,2014/11/11,19:24:21,-79.758875,43.733026,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Unintentional, cause undetermined","Other, not classified",1st Floor,"Rug, Carpet",458
+1446969-00,2014/11/12,05:17:35,-79.724272,43.664775,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",459
+1447305-00,2014/11/14,11:59:30,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",8th Floor,Cabinetry,460
+1447622-00,2014/11/16,18:57:01,-79.789203,43.673868,Detached Dwelling,Garage,Improperly Discarded,Undetermined,1st Floor,Multiple Objects or Materials,461
+1448293-00,2014/11/20,13:17:04,-79.734762,43.669934,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",1st Floor,Other,462
+1448363-00,2014/11/20,20:00:58,-79.739718,43.646048,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Undetermined,463
+1448928-00,2014/11/24,11:56:18,-79.761405,43.734069,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",464
+1451372-00,2014/12/09,21:39:22,-79.725738,43.656483,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",7th Floor,Undetermined,465
+1451995-00,2014/12/13,16:42:05,-79.788941,43.695381,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",466
+1452603-00,2014/12/17,15:39:18,-79.77946,43.663785,Semi-Detached Dwelling,Basement/cellar not partitioned,Improper handling of ignition source or ignited material,"Blow Torch, Bunsen Burner.",,Structural Member,467
+1453113-00,2014/12/20,21:23:38,-79.759939,43.685895,Detached/Semi/Attached with Accessory Apartment above grade,Roof,"Other unintentional cause, not classified",Other Open Flame Tools/Smokers' Articles,2nd Floor,Exterior Roof Covering,468
+1453758-00,2014/12/24,22:26:15,-79.750855,43.767328,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,"Unintentional, cause undetermined",Undetermined,,Multiple diverse objects ignited,469
+1454174-00,2014/12/27,15:15:25,-79.782243,43.67509,Detached Dwelling,Laundry Area,Electrical Failure,Clothes Dryer,1st Floor,Multiple diverse objects ignited,470
+1500060-00,2015/01/01,08:43:41,-79.758484,43.742015,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,"Rug, Carpet",471
+1500750-00,2015/01/05,13:35:25,-79.717864,43.72816,Semi-Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Suspected Arson,Lighters (open flame),2nd Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",472
+1500794-00,2015/01/05,19:08:59,-79.743949,43.665192,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",6th Floor,"Cooking Oil, Grease",473
+1500903-00,2015/01/06,11:17:35,-79.724231,43.740649,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Used or placed too close to combustibles,Wood burning stove,1st Floor,"Wood, wood shavings",474
+1500973-00,2015/01/06,19:11:56,-79.727061,43.664636,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,Candle,,"Mattress, Pillow",475
+1502150-00,2015/01/13,15:40:20,-79.744271,43.648692,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",476
+1502156-00,2015/01/13,16:08:40,-79.778495,43.698242,Detached Dwelling,Laundry Area,Improper handling of ignition source or ignited material,"Blow Torch, Bunsen Burner.",Other,Other,477
+1502157-00,2015/01/13,16:09:59,-79.812022,43.726787,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,478
+1502422-00,2015/01/15,05:00:28,-79.750602,43.694639,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Mechanical Failure,"Refrigerator, Freezer (inc vending machine)",4th Floor,Other,479
+1502448-00,2015/01/15,08:45:31,-79.765846,43.706893,Semi-Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Suspected Arson,Fireplace - Masonry,,Christmas Tree,480
+1502765-00,2015/01/17,12:34:31,-79.729366,43.742855,Detached Dwelling,Garage,"Other unintentional cause, not classified","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Other,481
+1502902-00,2015/01/18,09:36:53,-79.821018,43.713963,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,"Other, not classified",2nd Floor,"Rug, Carpet",482
+1503086-00,2015/01/19,16:37:10,-79.744326,43.748893,Semi-Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Natural Gas,483
+1503086-01,2015/01/19,16:37:10,-79.744326,43.748893,Semi-Detached Dwelling,Attic Area,Exposure fire,"Exposure, source structure semi-detached or attached",2nd Floor,Structural Member,484
+1503086-02,2015/01/19,16:37:10,-79.744326,43.748893,Semi-Detached Dwelling,Exterior Wall,Exposure fire,"Exposure, source structure detached",,Structural Member,485
+1503086-03,2015/01/19,16:37:10,-79.744326,43.748893,Semi-Detached Dwelling,Roof,Exposure fire,"Exposure, source structure semi-detached or attached",Roof Level,Structural Member,486
+1503474-00,2015/01/22,08:06:22,-79.715707,43.723172,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",17th Floor,Interior Wall/Ceiling,487
+1503583-00,2015/01/22,18:59:05,-79.747373,43.648726,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",488
+1504180-00,2015/01/26,16:57:42,-79.775599,43.709052,Semi-Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Electrical Failure,Central Heating/Cooling Unit,,Electrical Wiring Insulation,489
+1504841-00,2015/01/30,23:09:56,-79.695108,43.813256,Detached Dwelling,"Lobby, Entranceway",Undetermined,"Other, not classified",Undetermined (formerly Not Applicable),Undetermined,490
+1505426-00,2015/02/03,14:44:34,-79.790237,43.692014,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Insulation,491
+1506944-00,2015/02/13,09:36:31,-79.755552,43.724055,Detached Dwelling,Cooking Area or Kitchen,Used or placed too close to combustibles,Oven,1st Floor,"Cooking Oil, Grease",492
+1507227-00,2015/02/15,05:31:37,-79.708545,43.724592,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Wood burning stove,1st Floor,Interior Wall/Ceiling,493
+1507572-00,2015/02/16,16:45:06,-79.705358,43.727824,Multi-Unit Dwelling - Over 12 Units,"Stairway, Escalator",Suspected Vandalism,Undetermined,3rd Floor,"Paper, Cardboard",494
+1507634-00,2015/02/16,21:27:23,-79.771192,43.709916,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Suspected Arson,Lighters (open flame),1st Floor,Interior Wall/Ceiling,495
+1508399-00,2015/02/20,13:42:35,-79.795357,43.653959,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)","Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Wood burning stove,Not applicable (formerly Undetermined),Interior Wall/Ceiling,496
+1509568-01,2015/02/27,15:15:18,-79.738207,43.753099,Semi-Detached Dwelling,Garage,Exposure fire,"Exposure, source vehicle (outside structure)",1st Floor,Exterior Cladding (excluding roof),497
+1509568-02,2015/02/27,15:15:18,-79.738207,43.753099,Semi-Detached Dwelling,Garage,Exposure fire,"Exposure, source vehicle (outside structure)",1st Floor,Other,498
+1509701-00,2015/02/28,11:26:52,-79.703571,43.683189,"Hotel, Motel, Lodging - 4 or more guests or suites","Washroom or Bathroom (inc. toilet, rest/locker rooms)",Suspected Arson,Undetermined,1st Floor,Linen Other than Bedding,499
+1509930-00,2015/03/01,21:49:31,-79.759008,43.691523,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Electrical Failure,Fireplace Insert,2nd Floor,Interior Wall/Ceiling,500
+1509951-00,2015/03/02,04:35:17,-79.689133,43.77074,Detached Dwelling,Other Outside Area,Design/Construction/Installation/Maintenance Deficiency,Flue Pipe,1st Floor,Other Building Component,501
+1510295-00,2015/03/03,20:08:48,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,Garage,Electrical Failure,Other Electrical,Other,Other,502
+1510614-00,2015/03/05,12:43:16,-79.748887,43.700356,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Other Storage Area,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Not applicable (formerly Undetermined),Other Building Component,503
+1510681-00,2015/03/05,18:22:08,-79.750247,43.736498,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",504
+1510939-00,2015/03/07,13:39:09,-79.685563,43.788835,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,505
+1511607-00,2015/03/12,08:52:44,-79.738267,43.771343,Detached Dwelling,Basement/cellar not partitioned,Undetermined,Undetermined,,Undetermined,506
+1513199-00,2015/03/23,15:17:46,-79.819266,43.698042,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",507
+1513385-00,2015/03/24,18:48:13,-79.738207,43.753099,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",508
+1513413-00,2015/03/25,00:32:56,-79.838633,43.688008,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Plastic,509
+1513893-00,2015/03/28,10:01:24,-79.713635,43.721607,Multi-Unit Dwelling - Over 12 Units,"HVAC Equipment Room (furnace room, water heater closet, boiler)","Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Central Heating/Cooling Unit,19th Floor,"Rubbish, Trash, Waste",510
+1514233-00,2015/03/30,20:38:46,-79.701557,43.720021,Semi-Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Undetermined,Undetermined,2nd Floor,Undetermined,511
+1514512-00,2015/04/01,17:24:54,-79.808326,43.684196,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",512
+1514647-00,2015/04/02,14:04:13,-79.726611,43.81422,Detached Dwelling,Porch or Balcony,Design/Construction/Installation/Maintenance Deficiency,Cutting/Welding Equipment,Other,"Agricultural Product - Grown (e.g. straw, seeds, etc.)",513
+1514778-00,2015/04/03,08:49:44,-79.764385,43.684661,Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Wood burning stove,Other,"Creosote (chimney, flue pipe)",514
+1515020-00,2015/04/05,09:22:14,-79.788839,43.676909,Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Fireplace - Masonry,Other,"Creosote (chimney, flue pipe)",515
+1515291-00,2015/04/07,15:33:53,-79.725064,43.76282,Semi-Detached Dwelling,Cooking Area or Kitchen,Children Playing (Ages 11 and under),"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",,Linen Other than Bedding,516
+1515809-00,2015/04/10,23:27:43,-79.730099,43.769058,"Motor Home, Camper, Trailer",Office,Suspected Arson,"Other, not classified",1st Floor,Multiple diverse objects ignited,517
+1515817-00,2015/04/11,00:44:31,-79.719773,43.707642,Detached Dwelling,Chimney/Flue Pipe,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Fireplace - Masonry,,"Creosote (chimney, flue pipe)",518
+1515974-00,2015/04/11,22:48:50,-79.802755,43.688549,Detached Dwelling,Exterior Wall,Natural cause,"Incandescent Lamp - Light Bulb, Spotlight",1st Floor,Nest,519
+1516074-00,2015/04/12,16:25:25,-79.781824,43.670639,Detached Dwelling,Concealed Wall Area,Other misuse of ignition source/material ignited,"Blow Torch, Bunsen Burner.",1st Floor,Interior Wall/Ceiling,520
+1516233-00,2015/04/13,17:07:27,-79.77351,43.663421,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Lobby, Entranceway",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Multiple diverse objects ignited,521
+1516748-00,2015/04/16,20:52:43,-79.752656,43.641064,Semi-Detached Dwelling,Exterior Wall,Used or placed too close to combustibles,Other Lighting Equipment,1st Floor,Nest,522
+1517003-00,2015/04/18,14:55:01,-79.803904,43.686642,Semi-Detached Dwelling,"Trash, rubbish area (outside)",Other misuse of ignition source/material ignited,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",Other,"Paper, Cardboard",523
+1517774-00,2015/04/23,17:27:51,-79.786714,43.731483,Semi-Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",524
+1518027-00,2015/04/25,14:00:57,-79.761437,43.678032,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",525
+1518471-00,2015/04/28,13:57:48,-79.790296,43.676811,Detached Dwelling,"Parking Area, Parking Lot",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Rubbish, Trash, Waste",526
+1519550-00,2015/05/04,22:11:48,-79.835731,43.697672,Semi-Detached Dwelling,Exterior Wall,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)","Incandescent Lamp - Light Bulb, Spotlight",1st Floor,"Bush, Grass, Tree, Leaves, etc.",527
+1519899-00,2015/05/07,10:53:04,-79.760963,43.683452,Detached Dwelling,Other - unclassified,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Wearing Apparel on a Person,528
+1520997-00,2015/05/14,12:14:45,-79.744074,43.7132,Detached Dwelling,Other Outside Area,Mechanical Failure,Other Heating Equipment,1st Floor,Plastic,529
+1521133-00,2015/05/15,08:41:59,-79.809336,43.699746,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Multiple diverse objects ignited,530
+1521364-00,2015/05/16,18:06:24,-79.786919,43.707527,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Court, Patio, Terrace",Used or placed too close to combustibles,Open Fired Barbeque - Fixed or Portable,1st Floor,Exterior Cladding (excluding roof),531
+1521393-00,2015/05/16,20:58:47,-79.819327,43.703667,Detached Dwelling,Exterior Wall,"Unintentional, cause undetermined",Undetermined,1st Floor,"Bush, Grass, Tree, Leaves, etc.",532
+1521784-00,2015/05/19,08:37:11,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",7th Floor,Cabinetry,533
+1522427-00,2015/05/23,10:33:44,-79.748668,43.735649,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Basement/cellar not partitioned,Suspected Arson,Matches or Lighters (unable to distinguish),1st Floor,Floor,534
+1522478-00,2015/05/23,16:35:02,-79.779153,43.711711,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",535
+1523045-00,2015/05/27,00:10:56,-79.763847,43.703701,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Undetermined,536
+1523576-00,2015/05/30,00:14:00,-79.786978,43.759287,Semi-Detached Dwelling,Attic Area,Design/Construction/Installation/Maintenance Deficiency,"Hot Ashes, Embers, Spark",Roof Level,Interior Wall/Ceiling,537
+1524266-00,2015/06/03,15:31:15,-79.781588,43.688869,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)","Unintentional, cause undetermined","Other, not classified",2nd Floor,Undetermined,538
+1524338-00,2015/06/04,04:19:28,-79.751611,43.693722,Multi-Unit Dwelling - Over 12 Units,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Space Heater - Fixed,14th Floor,Multiple diverse objects ignited,539
+1524565-00,2015/06/05,12:37:46,-79.782701,43.694822,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Paper, Cardboard",540
+1524608-00,2015/06/05,15:53:48,-79.71981,43.764298,Detached Dwelling,Roof,Natural cause,Lightning,Roof Level,Interior Wall/Ceiling,541
+1524913-00,2015/06/07,19:14:23,-79.730099,43.769058,"Motor Home, Camper, Trailer","Sales, Showroom Area",Suspected Arson,Multiple Ignition Source or Igniting Equip (suspected arson),1st Floor,Multiple Objects or Materials,542
+1524948-00,2015/06/07,23:05:03,-79.772942,43.707909,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Washroom or Bathroom (inc. toilet, rest/locker rooms)",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",,"Paper, Cardboard",543
+1525021-00,2015/06/08,11:32:27,-79.743433,43.770505,Detached Dwelling,Cooking Area or Kitchen,Unattended,Cutting/Welding Equipment,1st Floor,"Cooking Oil, Grease",544
+1525028-00,2015/06/08,12:04:29,-79.835486,43.693156,Detached Dwelling,Cooking Area or Kitchen,Unattended,Candle,1st Floor,Cabinetry,545
+1525295-00,2015/06/10,07:48:56,-79.780525,43.758978,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improperly Discarded,"Other, not classified",2nd Floor,"Paper, Cardboard",546
+1525702-00,2015/06/12,16:40:16,-79.82864,43.708365,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,547
+1525743-00,2015/06/12,21:37:06,-79.74607,43.753429,Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,1st Floor,"Other Soft Goods, Wearing Apparel",548
+1526037-00,2015/06/14,20:24:21,-79.756925,43.674662,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",549
+1526764-00,2015/06/18,16:16:51,-79.77153,43.666095,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Mechanical Failure,Undetermined,1st Floor,Other,550
+1527441-00,2015/06/23,03:41:42,-79.73801,43.643466,Detached/Semi/Attached with Accessory Apartment below grade,"Ducting - Exhaust (inc. cooking, fumes, etc.)",Natural cause,Lightning,,"Fabric - Natural (e.g. cotton, wool, etc.)",551
+1528127-00,2015/06/27,14:02:01,-79.827961,43.701138,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Other,552
+1528965-00,2015/07/03,03:15:08,-79.703571,43.683189,"Hotel, Motel, Lodging - 4 or more guests or suites","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Other misuse of ignition source/material ignited,Lighters (open flame),2nd Floor,"Paper, Cardboard",553
+1529106-00,2015/07/04,02:16:46,-79.7589,43.680635,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,554
+1529297-00,2015/07/05,09:17:37,-79.781792,43.753801,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Closet (e.g. clothes, broom, linen closet, etc.)",Unattended,Candle,2nd Floor,"Other Soft Goods, Wearing Apparel",555
+1529456-00,2015/07/06,11:07:11,-79.771535,43.636738,Detached Dwelling,Porch or Balcony,Undetermined,Undetermined,1st Floor,"Bush, Grass, Tree, Leaves, etc.",556
+1529837-00,2015/07/08,21:24:18,-79.750683,43.653122,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Oven,1st Floor,"Rubbish, Trash, Waste",557
+1530257-00,2015/07/11,16:54:05,-79.817462,43.739601,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",558
+1530291-00,2015/07/11,21:37:39,-79.740836,43.644559,Detached Dwelling,Laundry Area,"Unintentional, cause undetermined",Clothes Dryer,1st Floor,Undetermined,559
+1531455-00,2015/07/19,15:40:23,-79.763071,43.737831,Semi-Detached Dwelling,Porch or Balcony,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Open Fired Barbeque - Fixed or Portable,1st Floor,Multiple Objects or Materials,560
+1532482-00,2015/07/26,16:52:22,-79.751747,43.710569,Semi-Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,,Wearing Apparel on a Person,561
+1533168-00,2015/07/30,18:08:48,-79.796213,43.684171,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improper handling of ignition source or ignited material,Matches or Lighters (unable to distinguish),2nd Floor,Bedding,562
+1533383-00,2015/07/31,21:51:42,-79.802953,43.647348,Detached Dwelling,Other Storage Area,"Other unintentional cause, not classified","Open Fire (e.g. camp fire, rubbish fire, etc.)",1st Floor,Exterior Cladding (excluding roof),563
+1534534-00,2015/08/08,17:29:00,-79.829907,43.710964,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,Cutting/Welding Equipment,,Floor,564
+1534805-00,2015/08/10,15:53:31,-79.776611,43.75439,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,565
+1535247-00,2015/08/13,15:32:11,-79.748513,43.658846,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,Cabinetry,566
+1535454-00,2015/08/15,01:03:44,-79.776532,43.691428,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,1st Floor,Undetermined,567
+1535585-00,2015/08/15,23:15:29,-79.804076,43.668764,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Undetermined,Undetermined,1st Floor,Interior Wall/Ceiling,568
+1536192-00,2015/08/19,21:08:38,-79.665965,43.777871,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",2nd Floor,Undetermined,569
+1536282-00,2015/08/20,13:06:49,-79.803507,43.720903,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Oven,1st Floor,"Cooking Oil, Grease",570
+1536532-00,2015/08/21,19:52:57,-79.774571,43.693194,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,Range Hood,1st Floor,Cabinetry,571
+1536573-00,2015/08/22,05:13:56,-79.753906,43.696137,Multi-Unit Dwelling - Over 12 Units,"Lobby, Entranceway",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Other,572
+1537090-00,2015/08/25,13:00:06,-79.740606,43.680152,Detached Dwelling,Garage,Improper handling of ignition source or ignited material,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Multiple Objects or Materials,573
+1537545-00,2015/08/28,12:04:13,-79.74337,43.780678,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",574
+1538421-00,2015/09/02,20:01:46,-79.768854,43.677789,Detached Dwelling,"Trash, rubbish area (outside)","Unintentional, cause undetermined",Undetermined,Not applicable (formerly Undetermined),"Books, Magazines, Newspapers",575
+1538620-00,2015/09/04,06:52:31,-79.715707,43.723172,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,"Other, not classified",2nd Floor,Electrical Wiring Insulation,576
+1539098-00,2015/09/07,15:03:33,-79.81383,43.672721,Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,577
+1539293-00,2015/09/08,22:16:07,-79.766913,43.720164,Detached Dwelling,Exterior Wall,"Other unintentional cause, not classified",Other Lighting Equipment,1st Floor,Nest,578
+1539393-00,2015/09/09,16:30:55,-79.715383,43.711987,Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,Oven,1st Floor,"Fabric - Natural (e.g. cotton, wool, etc.)",579
+1539558-00,2015/09/10,19:24:41,-79.720573,43.654875,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",580
+1540023-00,2015/09/13,19:51:45,-79.750602,43.694639,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",12th Floor,Other,581
+1541427-00,2015/09/22,18:20:30,-79.780357,43.681274,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,Cabinetry,582
+1541898-00,2015/09/25,16:26:22,-79.715192,43.763309,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",583
+1542289-00,2015/09/28,08:45:29,-79.747094,43.782619,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Oven,1st Floor,"Cooking Oil, Grease",584
+1542530-00,2015/09/29,17:55:49,-79.755681,43.726802,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",3rd Floor,"Cooking Oil, Grease",585
+1542648-00,2015/09/30,14:33:50,-79.780357,43.681274,Semi-Detached Dwelling,Cooking Area or Kitchen,Improper storage,Oven,1st Floor,Plastic,586
+1542684-00,2015/09/30,18:30:08,-79.727136,43.711933,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",6th Floor,Cabinetry,587
+1543047-00,2015/10/03,03:01:38,-79.772408,43.69936,Semi-Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Rubbish, Trash, Waste",588
+1543234-00,2015/10/04,11:15:11,-79.786379,43.700073,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",,Cabinetry,589
+1543282-00,2015/10/04,16:43:53,-79.73983,43.722637,Detached/Semi/Attached with Accessory Apartment below grade,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",590
+1543607-00,2015/10/06,17:01:58,-79.746963,43.739054,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Mechanical Failure,"Heat Treatment Equip. (furnace, oven, kiln, quench tanks, a",,Other,591
+1543674-00,2015/10/07,07:00:28,-79.716517,43.776875,Detached Dwelling,"Hallway, Corridor",Suspected Arson,Undetermined,1st Floor,Undetermined,592
+1543677-00,2015/10/07,07:20:17,-79.754901,43.672225,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Electrical Failure,Other Appliances,,Floor,593
+1544398-00,2015/10/11,10:55:35,-79.756755,43.638841,Detached Dwelling,"Open Area (inc lawn, field, farmyard, park, playing field)",Used or placed too close to combustibles,"Exposure, source outside storage container, tank",1st Floor,Propane,594
+1545325-00,2015/10/17,10:46:31,-79.727136,43.711933,Multi-Unit Dwelling - Over 12 Units,Elevator (includes shaft),Undetermined,Undetermined,Not applicable (formerly Undetermined),Interior Wall/Ceiling,595
+1545477-00,2015/10/18,12:40:24,-79.728796,43.712165,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Unattended,Other Electrical,3rd Floor,Multiple Objects or Materials,596
+1545937-00,2015/10/21,16:08:41,-79.730257,43.668686,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Undetermined,Oven,6th Floor,Cabinetry,597
+1546411-00,2015/10/24,15:59:24,-79.819228,43.707768,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Other Cooking Items (e.g. toaster, kettle, elec frying pan)",,"Cooking Oil, Grease",598
+1546555-00,2015/10/25,13:35:11,-79.788888,43.719367,Detached Dwelling,Cooking Area or Kitchen,Used or placed too close to combustibles,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",599
+1546844-00,2015/10/27,13:21:54,-79.789985,43.637745,Cottage,Undetermined,Undetermined,Undetermined,1st Floor,Structural Member,600
+1547011-00,2015/10/28,13:11:42,-79.665782,43.770694,Semi-Detached Dwelling,Concealed Wall Area,Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Interior Wall/Ceiling,601
+1547176-00,2015/10/29,15:13:18,-79.731459,43.682223,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",12th Floor,"Cooking Oil, Grease",602
+1548676-00,2015/11/08,00:25:58,-79.7345,43.726076,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Stove, Range-top burner",1st Floor,Cabinetry,603
+1548809-00,2015/11/09,06:51:32,-79.773289,43.680745,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,"Other unintentional cause, not classified",Clothes Dryer,1st Floor,Linen Other than Bedding,604
+1549278-00,2015/11/11,22:52:34,-79.798133,43.687314,Detached Dwelling,Garage,Used or placed too close to combustibles,Fireworks,1st Floor,Undetermined,605
+1550029-00,2015/11/17,08:11:00,-79.743209,43.757169,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,,"Mattress, Pillow",606
+1550571-00,2015/11/20,20:27:47,-79.828875,43.649077,Multi-Unit Dwelling - 2 to 6 Units,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",2nd Floor,"Cooking Oil, Grease",607
+1551239-00,2015/11/25,10:52:32,-79.73654,43.645651,Detached Dwelling,Basement/cellar not partitioned,Undetermined,Undetermined,Other,Undetermined,608
+1552098-00,2015/11/30,15:15:30,-79.796017,43.694843,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Living Area (e.g. living, T.V., recreation, etc)",Improper handling of ignition source or ignited material,Cutting/Welding Equipment,,Interior Wall/Ceiling,609
+1552561-00,2015/12/03,10:03:19,-79.783121,43.675121,Detached Dwelling,Concealed Wall Area,"Other unintentional cause, not classified",Cutting/Welding Equipment,Other,Interior Wall/Ceiling,610
+1553236-00,2015/12/07,17:03:42,-79.749639,43.743198,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Space Heater - Portable,2nd Floor,Bedding,611
+1553648-00,2015/12/10,10:00:42,-79.805201,43.6929,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,Oven,1st Floor,"Cooking Oil, Grease",612
+1554828-00,2015/12/17,15:57:54,-79.711906,43.721216,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",613
+1554960-00,2015/12/18,13:02:22,-79.798823,43.720267,Semi-Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)",Improper handling of ignition source or ignited material,Water Heater,Other,Insulation,614
+1554996-00,2015/12/18,17:43:00,-79.731415,43.662266,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,Other Electrical,2nd Floor,Multiple Objects or Materials,615
+1555143-00,2015/12/19,18:46:02,-79.731459,43.682223,"Apartment, Flat, Tenement with Business",Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Upholstered Sofa, Chair, etc.",616
+1555401-00,2015/12/21,14:28:36,-79.724709,43.720909,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",7th Floor,"Cooking Oil, Grease",617
+1555914-00,2015/12/24,18:55:33,-79.74607,43.753429,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,618
+1556181-00,2015/12/26,20:21:29,-79.715213,43.720263,Multi-Unit Dwelling - Over 12 Units,"Trash, Rubbish Storage (inc. chute room, indust. waste area etc)",Improperly Discarded,Undetermined,6th Floor,"Rubbish, Trash, Waste",619
+1556633-00,2015/12/29,16:14:07,-79.743398,43.721881,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",620
+1600539-00,2016/01/04,13:12:12,-79.724048,43.70951,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",15th Floor,"Cooking Oil, Grease",621
+1601032-00,2016/01/07,14:54:41,-79.816565,43.725385,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,622
+1601469-00,2016/01/10,05:21:35,-79.759939,43.685895,"Apartment, Flat, Tenement with Business","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,"Stove, Range-top burner",2nd Floor,Bedding,623
+1601806-00,2016/01/12,10:14:29,-79.745499,43.776975,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Garage,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Multiple diverse objects ignited,624
+1601835-00,2016/01/12,13:31:21,-79.77694,43.694638,Detached Dwelling,Laundry Area,"Other unintentional cause, not classified",Other Appliances,,Other,625
+1601923-00,2016/01/13,07:45:40,-79.715227,43.774068,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Undetermined,2nd Floor,Interior Wall/Ceiling,626
+1603071-00,2016/01/20,10:34:29,-79.750271,43.674886,Detached Dwelling,Garage,Electrical Failure,Vehicle - Electrical,1st Floor,Interior Wall/Ceiling,627
+1603115-00,2016/01/20,16:02:58,-79.733408,43.72112,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Improper handling of ignition source or ignited material,Undetermined,1st Floor,Undetermined,628
+1603221-00,2016/01/21,11:20:10,-79.718634,43.72145,"Apartment, Flat, Tenement with Business",Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",5thFloor,Cabinetry,629
+1603399-00,2016/01/22,12:55:27,-79.715707,43.723172,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Used or placed too close to combustibles,"Blow Torch, Bunsen Burner.",5thFloor,Interior Wall/Ceiling,630
+1603849-00,2016/01/25,12:25:04,-79.717403,43.717893,Multi-Unit Dwelling - Over 12 Units,"Stairway, Escalator",Suspected Arson,Undetermined,25th Floor,"Paper, Cardboard",631
+1604743-00,2016/01/31,13:38:32,-79.731011,43.7763,Detached Dwelling,Basement/cellar not partitioned,"Unintentional, cause undetermined",Central Heating/Cooling Unit,,Electrical Wiring Insulation,632
+1605085-00,2016/02/02,18:40:10,-79.718634,43.72145,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",14th Floor,"Cooking Oil, Grease",633
+1605543-00,2016/02/05,19:45:19,-79.743003,43.805721,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Suspected Arson,Undetermined,1st Floor,Interior Wall/Ceiling,634
+1605619-00,2016/02/06,12:21:34,-79.728796,43.712165,Multi-Unit Dwelling - Over 12 Units,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",635
+1606424-00,2016/02/11,23:33:42,-79.718634,43.72145,Multi-Unit Dwelling - Over 12 Units,"Dining or Beverage Area (inc. lunchroom, café, mess, etc)",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",5thFloor,"Wood, wood shavings",636
+1606742-00,2016/02/13,21:05:08,-79.73194,43.733407,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Design/Construction/Installation/Maintenance Deficiency,Fireplace - Masonry,1st Floor,"Wood, wood shavings",637
+1606747-00,2016/02/13,22:07:23,-79.789534,43.709716,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",638
+1608113-00,2016/02/21,14:41:15,-79.749984,43.779094,Semi-Detached Dwelling,Laundry Area,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Clothes Dryer,2nd Floor,"Other Soft Goods, Wearing Apparel",639
+1608338-00,2016/02/23,00:10:54,-79.693675,43.776937,Detached Dwelling,Garage,Improperly Discarded,"Open Fire (e.g. camp fire, rubbish fire, etc.)",1st Floor,"Rubbish, Trash, Waste",640
+1609775-00,2016/03/02,19:00:21,-79.765574,43.689043,Rooming/Boarding House,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Bedding,641
+1609892-00,2016/03/03,12:27:06,-79.783997,43.693683,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,642
+1610223-00,2016/03/05,13:57:59,-79.771036,43.714618,Semi-Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,Plastic,643
+1611434-00,2016/03/13,14:20:09,-79.736773,43.710071,Semi-Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,Cabinetry,644
+1611832-00,2016/03/16,10:03:48,-79.719494,43.72802,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Other chemicals, materials not classified above",645
+1611882-00,2016/03/16,16:53:41,-79.823311,43.719733,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",646
+1612250-00,2016/03/18,18:06:20,-79.820657,43.690178,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",647
+1612994-00,2016/03/23,12:14:29,-79.742142,43.71526,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,Bedding,648
+1613043-00,2016/03/23,19:06:42,-79.755126,43.774768,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,649
+1613340-00,2016/03/25,08:22:30,-79.778835,43.697468,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",650
+1613798-00,2016/03/28,02:43:15,-79.757736,43.714198,Detached Dwelling,Mechanical/Electrical Services room,Natural cause,Lightning,,Electrical Wiring Insulation,651
+1614042-00,2016/03/29,17:19:25,-79.726307,43.756821,Detached Dwelling,"Parking Area, Parking Lot",Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Paper, Cardboard",652
+1614218-00,2016/03/30,21:38:59,-79.771858,43.704688,Detached Dwelling,Exterior Wall,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)","Other, not classified",1st Floor,Nest,653
+1614537-00,2016/04/01,20:26:39,-79.740606,43.782359,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,1st Floor,"Cooking Oil, Grease",654
+1614981-00,2016/04/04,14:48:40,-79.750683,43.653122,Rooming/Boarding House,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",655
+1614999-00,2016/04/04,17:05:29,-79.761206,43.771625,Detached Dwelling,Laundry Area,Electrical Failure,Washing Machine,,Multiple diverse objects ignited,656
+1615130-00,2016/04/05,13:31:29,-79.76774,43.717244,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Laundry Area,Undetermined,Washing Machine,1st Floor,Other,657
+1615920-00,2016/04/10,15:45:17,-79.747094,43.782619,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,Cabinetry,658
+1616089-00,2016/04/11,17:42:29,-79.718187,43.740026,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,659
+1616578-00,2016/04/14,20:26:21,-79.822865,43.681711,Detached Dwelling,Garage,Undetermined,Undetermined,1st Floor,Undetermined,660
+1616849-00,2016/04/16,14:32:38,-79.822984,43.67602,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Wood, wood shavings",661
+1616888-00,2016/04/16,18:57:51,-79.751428,43.738994,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",662
+1616896-00,2016/04/16,20:02:26,-79.752188,43.730749,Detached Dwelling,Garage,Electrical Failure,"Extension Cord, Temporary Wiring",1st Floor,Multiple diverse objects ignited,663
+1619431-00,2016/05/03,12:54:56,-79.768127,43.715697,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",664
+1619670-00,2016/05/04,23:16:53,-79.720442,43.661504,Multi-Unit Dwelling - Over 12 Units,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",9th Floor,"Paper, Cardboard",665
+1619768-00,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Unattended,Cutting/Welding Equipment,Undetermined (formerly Not Applicable),Undetermined,666
+1619768-01,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Exposure fire,Rekindle,Undetermined (formerly Not Applicable),Undetermined,667
+1619768-02,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Exposure fire,"Exposure, source structure detached",Undetermined (formerly Not Applicable),Undetermined,668
+1619768-03,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Exposure fire,"Exposure, source structure detached",Undetermined (formerly Not Applicable),Undetermined,669
+1619768-04,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Exposure fire,"Exposure, source structure detached",Undetermined (formerly Not Applicable),Undetermined,670
+1619768-05,2016/05/05,15:28:18,-79.727139,43.802233,Detached Dwelling,Undetermined,Exposure fire,"Exposure, source structure detached",Undetermined (formerly Not Applicable),Undetermined,671
+1619772-00,2016/05/05,16:05:03,-79.768114,43.62995,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Unattended,Candle,Not applicable (formerly Undetermined),"Curtain, Drapery",672
+1619812-00,2016/05/05,21:12:45,-79.727139,43.802233,Detached Dwelling,Exterior Wall,Undetermined,Undetermined,1st Floor,Structural Member,673
+1619849-00,2016/05/06,01:34:52,-79.727139,43.802233,Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Undetermined,674
+1620063-00,2016/05/07,08:24:59,-79.793284,43.694943,Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Wood, wood shavings",675
+1620261-00,2016/05/08,18:27:52,-79.768298,43.704626,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Undetermined,676
+1620300-00,2016/05/08,22:20:56,-79.823311,43.719733,Detached Dwelling,Garage,Improperly Discarded,"Blow Torch, Bunsen Burner.",1st Floor,Cleaning Supplies,677
+1620438-00,2016/05/09,19:10:52,-79.735842,43.709767,Multi-Unit Dwelling - Over 12 Units,Other Functional Area,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",7th Floor,"Bush, Grass, Tree, Leaves, etc.",678
+1620649-00,2016/05/11,03:37:49,-79.706718,43.712352,Detached Dwelling,Multiple Areas of origin,Undetermined,"Other, not classified",1st Floor,Other,679
+1620951-00,2016/05/12,18:49:53,-79.73654,43.645651,Detached Dwelling,Garage,Suspected Arson,Undetermined,1st Floor,"Paper, Cardboard",680
+1620996-00,2016/05/13,00:44:11,-79.668388,43.793142,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Undetermined,Lightning,2nd Floor,Interior Wall/Ceiling,681
+1621420-00,2016/05/15,17:17:08,-79.729545,43.72908,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Other misuse of ignition source/material ignited,"Extension Cord, Temporary Wiring",2nd Floor,"Mattress, Pillow",682
+1621620-00,2016/05/16,21:48:52,-79.744746,43.661423,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,Candle,2nd Floor,Interior Wall/Ceiling,683
+1621652-00,2016/05/17,08:00:12,-79.720481,43.736166,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Unattended,Candle,2nd Floor,"Fabric - Synthetic, Combination",684
+1621927-00,2016/05/18,20:59:40,-79.772856,43.736583,Detached Dwelling,Cooking Area or Kitchen,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Oven,1st Floor,"Cooking Oil, Grease",685
+1622310-00,2016/05/21,00:52:19,-79.701552,43.711857,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Other,686
+1622368-00,2016/05/21,12:55:59,-79.755803,43.744097,Detached Dwelling,Cooking Area or Kitchen,Improper storage,Oven,,Plastic,687
+1622805-00,2016/05/24,07:57:12,-79.734894,43.644968,Detached Dwelling,"Closet (e.g. clothes, broom, linen closet, etc.)",Unattended,Candle,,Wearing Apparel on a Person,688
+1623646-00,2016/05/28,16:22:16,-79.724486,43.738632,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",689
+1623843-00,2016/05/29,20:12:44,-79.797464,43.691783,Detached Dwelling,Laundry Area,"Other unintentional cause, not classified",Clothes Dryer,1st Floor,Other,690
+1624015-00,2016/05/30,17:37:45,-79.754201,43.664028,Multi-Unit Dwelling - Over 12 Units,"Closet (e.g. clothes, broom, linen closet, etc.)",Undetermined,Undetermined,1st Floor,Multiple Objects or Materials,691
+1624357-00,2016/06/01,15:35:35,-79.763986,43.763789,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",2nd Floor,Wearing Apparel on a Person,692
+1624734-00,2016/06/03,18:02:23,-79.739619,43.755313,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,Other Electrical,2nd Floor,Electrical Wiring Insulation,693
+1624748-00,2016/06/03,19:32:52,-79.667768,43.795273,Semi-Detached Dwelling,Attached deck,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Open Fired Barbeque - Fixed or Portable,1st Floor,"Cooking Oil, Grease",694
+1624752-00,2016/06/03,19:53:14,-79.728741,43.730222,Other Residential,Garage,Electrical Failure,Vehicle - Electrical,1st Floor,Electrical Wiring Insulation,695
+1624847-00,2016/06/04,11:58:44,-79.793157,43.6847,Semi-Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Unattended,Other Appliances,2nd Floor,Cabinetry,696
+1625252-00,2016/06/06,15:43:49,-79.747408,43.760991,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Improper handling of ignition source or ignited material,"Blow Torch, Bunsen Burner.",,Insulation,697
+1626187-00,2016/06/12,13:41:11,-79.80801,43.731727,Detached Dwelling,Attached deck,Undetermined,Open Fired Barbeque - Fixed or Portable,Other,Propane,698
+1627256-00,2016/06/18,17:33:48,-79.825233,43.695677,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Used or placed too close to combustibles,Candle,2nd Floor,Other Furniture,699
+1627383-00,2016/06/19,11:51:26,-79.74611,43.776776,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",700
+1627454-00,2016/06/19,21:21:01,-79.732724,43.758051,Detached Dwelling,Cooking Area or Kitchen,Improper storage,"Stove, Range-top burner",,"Other Soft Goods, Wearing Apparel",701
+1627577-00,2016/06/20,16:02:54,-79.751791,43.793985,Detached Dwelling,"Court, Patio, Terrace",Electrical Failure,"Cord, Cable for Appliance, Electrical Articles",1st Floor,Structural Member,702
+1628113-00,2016/06/23,21:11:41,-79.765846,43.706893,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improper handling of ignition source or ignited material,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,"Mattress, Pillow",703
+1628209-00,2016/06/24,13:38:41,-79.754899,43.659863,Detached Dwelling,Attached deck,Undetermined,Open Fired Barbeque - Fixed or Portable,1st Floor,Exterior Roof Covering,704
+1628390-00,2016/06/25,12:39:32,-79.79845,43.719651,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified",Oven,1st Floor,"Cooking Oil, Grease",705
+1628544-00,2016/06/26,12:23:11,-79.762135,43.681205,Detached Dwelling,"Lobby, Entranceway",Unattended,"Stove, Range-top burner",1st Floor,Interior Wall/Ceiling,706
+1628746-00,2016/06/27,16:51:38,-79.749733,43.65515,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",Other,"Cooking Oil, Grease",707
+1629583-00,2016/07/02,12:02:26,-79.81383,43.672721,Detached Dwelling,Undetermined,Suspected Arson,Undetermined,Undetermined (formerly Not Applicable),Undetermined,708
+1629989-00,2016/07/04,18:16:24,-79.743222,43.769262,Detached Dwelling,Attached deck,"Routine maintenance deficiency, e.g. creosote, lint, grease buildup)",Open Fired Barbeque - Fixed or Portable,1st Floor,"Other Flammable, Combustible Liquid",709
+1630545-00,2016/07/08,00:05:30,-79.730604,43.669572,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Interior Wall/Ceiling,710
+1630691-00,2016/07/08,19:59:49,-79.738978,43.682341,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",711
+1631808-00,2016/07/15,12:57:28,-79.79845,43.719651,Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improperly Discarded,Matches (open flame),2nd Floor,"Rubbish, Trash, Waste",712
+1632348-00,2016/07/18,17:07:56,-79.758695,43.715472,Detached Dwelling,Other Outside Area,Unattended,Open Fired Barbeque - Fixed or Portable,1st Floor,Multiple Objects or Materials,713
+1632372-00,2016/07/18,21:22:44,-79.796142,43.678432,Detached Dwelling,Attached deck,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",1st Floor,Multiple Objects or Materials,714
+1632992-00,2016/07/22,15:39:45,-79.757694,43.728694,Detached Dwelling,Porch or Balcony,Improperly Discarded,Undetermined,1st Floor,Other Building Component,715
+1633126-00,2016/07/23,11:55:04,-79.821437,43.712077,Detached Dwelling,Porch or Balcony,Improperly Discarded,"Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,Other Building Component,716
+1633696-00,2016/07/26,17:02:00,-79.772408,43.69936,Semi-Detached Dwelling,Chimney/Flue Pipe,Undetermined,"Other, not classified",1st Floor,"Wood, wood shavings",717
+1635069-00,2016/08/04,09:46:24,-79.753883,43.73177,Rooming/Boarding House,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Children Playing (Ages 11 and under),Lighters (open flame),2nd Floor,"Rug, Carpet",718
+1636089-00,2016/08/10,11:49:57,-79.720573,43.654875,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,1st Floor,"Cooking Oil, Grease",719
+1636564-00,2016/08/12,21:40:53,-79.794224,43.689495,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",720
+1637046-00,2016/08/15,15:01:50,-79.672451,43.782938,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",721
+1637755-00,2016/08/19,17:05:16,-79.753744,43.738457,Detached Dwelling,Basement/cellar not partitioned,Improper handling of ignition source or ignited material,"Other, not classified",,Insulation,722
+1637909-00,2016/08/20,18:05:08,-79.811171,43.712685,Semi-Detached Dwelling,"Court, Patio, Terrace",Mechanical Failure,Open Fired Barbeque - Fixed or Portable,1st Floor,Propane,723
+1638258-00,2016/08/22,21:23:10,-79.772343,43.718489,Semi-Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",2nd Floor,Other,724
+1638787-00,2016/08/25,17:52:03,-79.768265,43.6859,Semi-Detached Dwelling,Cooking Area or Kitchen,"Unintentional, cause undetermined","Stove, Range-top burner",1st Floor,"Cooking Oil, Grease",725
+1639919-00,2016/09/01,10:06:39,-79.738733,43.753487,Semi-Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,,Wearing Apparel on a Person,726
+1640062-00,2016/09/02,08:14:54,-79.774985,43.715938,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,1st Floor,Other Building Component,727
+1640078-00,2016/09/02,09:49:08,-79.792006,43.678798,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",,"Cooking Oil, Grease",728
+1640179-00,2016/09/02,19:56:33,-79.806498,43.676604,Semi-Detached Dwelling,Exterior Wall,Electrical Failure,Meter,1st Floor,Electrical Wiring Insulation,729
+1640460-00,2016/09/04,14:47:52,-79.732952,43.711611,Detached Dwelling,"Living Area (e.g. living, T.V., recreation, etc)","Other unintentional cause, not classified","Other, not classified",1st Floor,Interior Wall/Ceiling,730
+1640649-00,2016/09/05,18:56:12,-79.827373,43.675049,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Attached deck,"Unintentional, cause undetermined","Smokers' Articles (lit cigarettes, pipes NOT matches, lighters)",2nd Floor,"Wood, wood shavings",731
+1642936-00,2016/09/19,15:50:27,-79.748743,43.793743,Detached Dwelling,"Open Area (inc lawn, field, farmyard, park, playing field)","Other unintentional cause, not classified",Other Mechanical,1st Floor,Other,732
+1642997-00,2016/09/19,21:46:03,-79.751377,43.645482,Detached Dwelling,"Washroom or Bathroom (inc. toilet, rest/locker rooms)",Mechanical Failure,"Other, not classified",,Other Building Component,733
+1644037-00,2016/09/25,17:46:47,-79.76822,43.7516,Detached Dwelling,Cooking Area or Kitchen,Unattended,Oven,Other,"Cooking Oil, Grease",734
+1646432-00,2016/10/09,15:50:45,-79.822884,43.722442,Detached Dwelling,Undetermined,Undetermined,Undetermined,Not applicable (formerly Undetermined),"Bush, Grass, Tree, Leaves, etc.",735
+1646971-00,2016/10/12,18:27:42,-79.686972,43.791379,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,736
+1647006-00,2016/10/13,00:43:10,-79.752188,43.697695,Multi-Unit Dwelling - Over 12 Units,Porch or Balcony,Undetermined,Undetermined,5thFloor,Plastic,737
+1647584-00,2016/10/16,17:52:01,-79.821215,43.685445,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",Other,"Cooking Oil, Grease",738
+1648616-00,2016/10/22,21:06:57,-79.764263,43.697736,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)","Washroom or Bathroom (inc. toilet, rest/locker rooms)",Electrical Failure,Circuit Wiring - Aluminum (inc conductors),1st Floor,Electrical Wiring Insulation,739
+1649027-00,2016/10/25,18:15:06,-79.829026,43.691861,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,Oven,1st Floor,Other,740
+1649138-00,2016/10/26,14:15:15,-79.753873,43.711684,Semi-Detached Dwelling,Cooking Area or Kitchen,Other misuse of ignition source/material ignited,"Stove, Range-top burner",1st Floor,Cabinetry,741
+1650551-00,2016/11/03,16:15:31,-79.752191,43.768615,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Cooking Area or Kitchen,Undetermined,Undetermined,1st Floor,Interior Wall/Ceiling,742
+1651376-00,2016/11/08,14:59:40,-79.763457,43.698459,Semi-Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor,Cabinetry,743
+1651700-00,2016/11/10,11:41:25,-79.7358,43.753969,"Attached Dwelling (e.g. rowhouse, townhouse, etc.)",Office,Electrical Failure,Other Appliances,2nd Floor,Plastic,744
+1651766-00,2016/11/10,18:14:42,-79.750124,43.712477,Semi-Detached Dwelling,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)",Improper handling of ignition source or ignited material,Undetermined,2nd Floor,Interior Wall/Ceiling,745
+1651835-00,2016/11/11,03:13:22,-79.815929,43.714122,Detached Dwelling,Office,Undetermined,Undetermined,2nd Floor,Undetermined,746
+1652361-00,2016/11/14,16:58:25,-79.732458,43.728069,Detached Dwelling,Cooking Area or Kitchen,"Other unintentional cause, not classified","Stove, Range-top burner",1st Floor,Electrical Wiring Insulation,747
+1652447-00,2016/11/15,09:04:57,-79.718634,43.72145,Multi-Unit Dwelling - Over 12 Units,"Sleeping Area or Bedroom (inc. patient's room, dormitory, etc)","Unintentional, cause undetermined",Other Electrical,2nd Floor,Undetermined,748
+1653110-00,2016/11/19,02:48:12,-79.74043,43.682237,Detached Dwelling,"HVAC Equipment Room (furnace room, water heater closet, boiler)","Unintentional, cause undetermined",Central Heating/Cooling Unit,1st Floor Below Grade,Undetermined,749
+1653307-00,2016/11/20,07:38:26,-79.74043,43.682237,Detached Dwelling,Basement/cellar not partitioned,Rekindle,Rekindle,1st Floor Below Grade,Structural Member,750
+1653597-00,2016/11/22,03:14:59,-79.723982,43.676607,Multi-Unit Dwelling - Over 12 Units,"Hallway, Corridor",Electrical Failure,Circuit Wiring - Copper (inc conductors),1st Floor,Electrical Wiring Insulation,751
+1654206-00,2016/11/25,16:52:31,-79.817652,43.693068,Detached Dwelling,Cooking Area or Kitchen,Unattended,"Stove, Range-top burner",1st Floor Below Grade,"Cooking Oil, Grease",752
+1656695-00,2016/12/09,23:12:29,-79.823522,43.645139,Detached Dwelling,Undetermined,Undetermined,Undetermined,Undetermined (formerly Not Applicable),Other Building Component,753
+1657355-00,2016/12/13,16:25:40,-79.778708,43.721448,Detached Dwelling,Cooking Area or Kitchen,Electrical Failure,"Stove, Range-top burner",1st Floor,Other,754
+1658129-00,2016/12/17,15:18:21,-79.838467,43.676565,Detached Dwelling,Cooking Area or Kitchen,Improper handling of ignition source or ignited material,Oven,1st Floor,"Cooking Oil, Grease",755
+1658159-00,2016/12/17,17:54:35,-79.699792,43.777048,Detached Dwelling,Garage,Unattended,"Stove, Range-top burner",1st Floor,Undetermined,756
+1660119-00,2016/12/28,05:54:48,-79.75981,43.690504,Multi-Unit Dwelling - Over 12 Units,"Living Area (e.g. living, T.V., recreation, etc)",Undetermined,Undetermined,6th Floor,"Upholstered Sofa, Chair, etc.",757
+1660668-00,2016/12/31,06:57:19,-79.720075,43.710881,Detached Dwelling,Electrical Systems,Electrical Failure,"Other Cooking Items (e.g. toaster, kettle, elec frying pan)",1st Floor Below Grade,Electrical Wiring Insulation,758
