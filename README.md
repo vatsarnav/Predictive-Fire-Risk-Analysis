@@ -126,7 +126,8 @@ Computer Science (Honours, Co-op)
 Algoma University
 
 **Arnav Vats** 
-Computer Science 
+Computer Science
+
 Algoma University
 
 ## Disclaimer
