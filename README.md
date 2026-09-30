@@ -125,10 +125,10 @@ Potential improvements include:
 Computer Science (Honours, Co-op)  
 Algoma University
 
-**Arnav Vats** 
-Computer Science
-
+**Arnav Vats**  
+Computer Science   
 Algoma University
+
 
 ## Disclaimer
 
