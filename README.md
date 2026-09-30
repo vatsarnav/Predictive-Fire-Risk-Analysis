@@ -125,8 +125,9 @@ Potential improvements include:
 Computer Science (Honours, Co-op)  
 Algoma University
 
-**Arnav**  
-Project Collaborator
+**Arnav Vats** 
+Computer Science 
+Algoma University
 
 ## Disclaimer
 
